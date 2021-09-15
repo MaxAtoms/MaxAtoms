@@ -2,17 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Projektstudium-Mikroprozessor/Super32](https://github.com/Projektstudium-Mikroprozessor/Super32) - Assembler, Emulator and Utilities for the Super32 Educational Processor
-- [MaxAtoms/Docker](https://github.com/MaxAtoms/Docker) - Collection of Dockerfiles and docker-compose files
-- [MaxAtoms/3D-models](https://github.com/MaxAtoms/3D-models) - A collection of designs that are suited for 3D printing
-- [MaxAtoms/KeepOnlyRelevantEvents](https://github.com/MaxAtoms/KeepOnlyRelevantEvents) - Collect events with specified names from multiple iCalendar files into one file
-- [goost/msg_ceres](https://github.com/goost/msg_ceres) - MSG Ceres Hackathon 2019
+- [Seitenbau/RoomieReloaded](https://github.com/Seitenbau/RoomieReloaded) - Zimbra room booking overview
 
 #### 🌱 My latest projects
 
 - [MaxAtoms/LabDocumentationToolchain](https://github.com/MaxAtoms/LabDocumentationToolchain) - This is the toolchain that I use to document my lab assignments
+- [MaxAtoms/DiscordBot](https://github.com/MaxAtoms/DiscordBot) - 
 - [MaxAtoms/Docker](https://github.com/MaxAtoms/Docker) - Collection of Dockerfiles and docker-compose files
-- [MaxAtoms/KeepOnlyRelevantEvents](https://github.com/MaxAtoms/KeepOnlyRelevantEvents) - Collect events with specified names from multiple iCalendar files into one file
 
 #### 📓 Some Gists I wrote
 
@@ -22,6 +18,6 @@
 
 #### 👯 Check out some of my followers
 
+- [mthaithanh](https://github.com/mthaithanh)
 - [DrNochi](https://github.com/DrNochi)
 - [inspirasiprogrammer](https://github.com/inspirasiprogrammer)
-- [ThomasKoscheck](https://github.com/ThomasKoscheck)
