@@ -18,9 +18,9 @@
 
 #### ⭐ Recent Stars
 
+- [chrissainty/ondotnet-tailwindcss](https://github.com/chrissainty/ondotnet-tailwindcss) - Demo app from On .NET Live covering Tailwind CSS and Blazor
 - [daveaglick/discoverdotnet](https://github.com/daveaglick/discoverdotnet) - A web site that helps you discover awesome .NET open source and community resources
 - [matkoch/resharper-cognitivecomplexity](https://github.com/matkoch/resharper-cognitivecomplexity) - 
-- [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) - A .NET library that makes it easier to create beautiful console applications.
 
 #### 👯 Check out some of my followers
 
