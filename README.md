@@ -18,9 +18,9 @@
 
 #### ⭐ Recent Stars
 
+- [HuddleEng/Specification](https://github.com/HuddleEng/Specification) - C# implementation of the specification pattern 
+- [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 - [chrissainty/ondotnet-tailwindcss](https://github.com/chrissainty/ondotnet-tailwindcss) - Demo app from On .NET Live covering Tailwind CSS and Blazor
-- [daveaglick/discoverdotnet](https://github.com/daveaglick/discoverdotnet) - A web site that helps you discover awesome .NET open source and community resources
-- [matkoch/resharper-cognitivecomplexity](https://github.com/matkoch/resharper-cognitivecomplexity) - 
 
 #### 👯 Check out some of my followers
 
