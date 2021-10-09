@@ -18,9 +18,9 @@
 
 #### ⭐ Recent Stars
 
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [HuddleEng/Specification](https://github.com/HuddleEng/Specification) - C# implementation of the specification pattern 
-- [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 
 #### 👯 Check out some of my followers
 
