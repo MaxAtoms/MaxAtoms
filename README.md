@@ -6,9 +6,9 @@
 
 #### 🌱 My latest projects
 
+- [MaxAtoms/maxatoms.github.io](https://github.com/MaxAtoms/maxatoms.github.io) - 
 - [MaxAtoms/LabDocumentationToolchain](https://github.com/MaxAtoms/LabDocumentationToolchain) - This is the toolchain that I use to document my lab assignments
 - [MaxAtoms/DiscordBot](https://github.com/MaxAtoms/DiscordBot) - 
-- [MaxAtoms/Docker](https://github.com/MaxAtoms/Docker) - Collection of Dockerfiles and docker-compose files
 
 #### 📓 Some Gists I wrote
 
