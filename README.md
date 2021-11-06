@@ -2,11 +2,12 @@
 
 #### 👷 Check out what I'm working on
 
+- [MaxAtoms/maxatoms.github.io](https://github.com/MaxAtoms/maxatoms.github.io) - Personal page
 - [Seitenbau/RoomieReloaded](https://github.com/Seitenbau/RoomieReloaded) - Zimbra room booking overview
 
 #### 🌱 My latest projects
 
-- [MaxAtoms/maxatoms.github.io](https://github.com/MaxAtoms/maxatoms.github.io) - 
+- [MaxAtoms/maxatoms.github.io](https://github.com/MaxAtoms/maxatoms.github.io) - Personal page
 - [MaxAtoms/LabDocumentationToolchain](https://github.com/MaxAtoms/LabDocumentationToolchain) - This is the toolchain that I use to document my lab assignments
 - [MaxAtoms/DiscordBot](https://github.com/MaxAtoms/DiscordBot) - 
 
