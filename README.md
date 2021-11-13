@@ -19,9 +19,9 @@
 
 #### ⭐ Recent Stars
 
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
-- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
-- [HuddleEng/Specification](https://github.com/HuddleEng/Specification) - C# implementation of the specification pattern 
+- [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
+- [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
+- [MO2k4/CleanCode](https://github.com/MO2k4/CleanCode) - ReSharper/Rider Plugin
 
 #### 👯 Check out some of my followers
 
