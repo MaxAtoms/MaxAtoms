@@ -13,9 +13,9 @@
 
 #### 📓 Some Gists I wrote
 
+- [Git Repos Year-in-review](https://gist.github.com/2586ee55c017c56db698a939220717a1)
 - [Visual Studio Code/Code-OSS settings and extensions backup](https://gist.github.com/b30163855bc6995588a5af9e88b28e51)
 - [PDF Command Line Tools](https://gist.github.com/0b5517977123cf1589a90f47985ca24b)
-- [Temperature change at a specific height in Slic3r](https://gist.github.com/c066b83545dc6c8a65ac8a3dccd0d65b)
 
 #### ⭐ Recent Stars
 
