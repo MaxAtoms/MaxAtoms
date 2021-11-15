@@ -3,7 +3,6 @@
 #### 👷 Check out what I'm working on
 
 - [MaxAtoms/maxatoms.github.io](https://github.com/MaxAtoms/maxatoms.github.io) - Personal page
-- [Seitenbau/RoomieReloaded](https://github.com/Seitenbau/RoomieReloaded) - Zimbra room booking overview
 
 #### 🌱 My latest projects
 
@@ -19,9 +18,9 @@
 
 #### ⭐ Recent Stars
 
+- [Abc-Arbitrage/Abc.MoqComplete](https://github.com/Abc-Arbitrage/Abc.MoqComplete) - Auto-completion plugin for Moq
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
-- [MO2k4/CleanCode](https://github.com/MO2k4/CleanCode) - ReSharper/Rider Plugin
 
 #### 👯 Check out some of my followers
 
