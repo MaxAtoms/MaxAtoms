@@ -24,6 +24,6 @@
 
 #### 👯 Check out some of my followers
 
+- [zeyad-mansour](https://github.com/zeyad-mansour)
 - [mthaithanh](https://github.com/mthaithanh)
 - [DrNochi](https://github.com/DrNochi)
-- [inspirasiprogrammer](https://github.com/inspirasiprogrammer)
