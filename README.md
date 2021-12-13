@@ -18,9 +18,9 @@
 
 #### ⭐ Recent Stars
 
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [Abc-Arbitrage/Abc.MoqComplete](https://github.com/Abc-Arbitrage/Abc.MoqComplete) - Auto-completion plugin for Moq
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
-- [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 
 #### 👯 Check out some of my followers
 
