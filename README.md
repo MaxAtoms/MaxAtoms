@@ -18,9 +18,9 @@
 
 #### ⭐ Recent Stars
 
-- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [Abc-Arbitrage/Abc.MoqComplete](https://github.com/Abc-Arbitrage/Abc.MoqComplete) - Auto-completion plugin for Moq
-- [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
+- [microsoft/dotnet-podcasts](https://github.com/microsoft/dotnet-podcasts) - .NET 6 reference application shown at .NET Conf 2021 featuring ASP.NET Core, Blazor, .NET MAUI, Microservices, and more!
+- [adamralph/minver](https://github.com/adamralph/minver) - 🏷 Minimalistic versioning using Git tags.
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
 #### 👯 Check out some of my followers
 
