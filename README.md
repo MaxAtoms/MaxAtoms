@@ -19,9 +19,9 @@
 
 #### ⭐ Recent Stars
 
+- [Seitenbau/comment-analyzer-maven-plugin](https://github.com/Seitenbau/comment-analyzer-maven-plugin) - 
 - [stryker-mutator/stryker-net](https://github.com/stryker-mutator/stryker-net) - Mutation testing for .NET core and .NET framework!
 - [microsoft/dotnet-podcasts](https://github.com/microsoft/dotnet-podcasts) - .NET 6 reference application shown at .NET Conf 2021 featuring ASP.NET Core, Blazor, .NET MAUI, Microservices, and more!
-- [adamralph/minver](https://github.com/adamralph/minver) - 🏷 Minimalistic versioning using Git tags.
 
 #### 👯 Check out some of my followers
 
