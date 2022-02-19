@@ -19,9 +19,9 @@
 
 #### ⭐ Recent Stars
 
+- [PragmaticFlow/NBomber](https://github.com/PragmaticFlow/NBomber) - Modern and flexible load testing framework for Pull and Push scenarios, designed to test any system regardless a protocol (HTTP/WebSockets/AMQP etc) or a semantic model (Pull/Push).
 - [andrewlock/StronglyTypedId](https://github.com/andrewlock/StronglyTypedId) - A Rosyln-powered generator for strongly-typed IDs
 - [foodcoops/foodsoft](https://github.com/foodcoops/foodsoft) - Web-based software to manage a non-profit food coop (product catalog, ordering, accounting, job scheduling).
-- [Seitenbau/comment-analyzer-maven-plugin](https://github.com/Seitenbau/comment-analyzer-maven-plugin) - 
 
 #### 👯 Check out some of my followers
 
