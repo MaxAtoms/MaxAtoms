@@ -19,9 +19,9 @@
 
 #### ⭐ Recent Stars
 
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Create videos programmatically in React
 - [ashmind/SharpLab](https://github.com/ashmind/SharpLab) - .NET language playground
 - [PragmaticFlow/NBomber](https://github.com/PragmaticFlow/NBomber) - Modern and flexible load testing framework for Pull and Push scenarios, designed to test any system regardless a protocol (HTTP/WebSockets/AMQP etc) or a semantic model (Pull/Push).
-- [andrewlock/StronglyTypedId](https://github.com/andrewlock/StronglyTypedId) - A Rosyln-powered generator for strongly-typed IDs
 
 #### 👯 Check out some of my followers
 
