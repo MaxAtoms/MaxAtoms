@@ -19,9 +19,9 @@
 
 #### ⭐ Recent Stars
 
-- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Create videos programmatically in React
-- [ashmind/SharpLab](https://github.com/ashmind/SharpLab) - .NET language playground
-- [PragmaticFlow/NBomber](https://github.com/PragmaticFlow/NBomber) - Modern and flexible load testing framework for Pull and Push scenarios, designed to test any system regardless a protocol (HTTP/WebSockets/AMQP etc) or a semantic model (Pull/Push).
+- [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
+- [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30&#43; plugins and 200&#43; options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
 #### 👯 Check out some of my followers
 
