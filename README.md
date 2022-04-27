@@ -25,6 +25,6 @@
 
 #### 👯 Check out some of my followers
 
-- [Altinger-Robert](https://github.com/Altinger-Robert)
 - [budakgetah6273](https://github.com/budakgetah6273)
 - [mthaithanh](https://github.com/mthaithanh)
+- [DrNochi](https://github.com/DrNochi)
