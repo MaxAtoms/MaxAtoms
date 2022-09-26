@@ -20,9 +20,9 @@
 
 #### ⭐ Recent Stars
 
+- [rubenwe/StlVault](https://github.com/rubenwe/StlVault) - 3D object viewer and organizer
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
-- [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 
 #### 👯 Check out some of my followers
 
