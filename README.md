@@ -21,9 +21,9 @@
 
 #### ⭐ Recent Stars
 
+- [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible DVCS that is both simple and powerful
 - [TNG/ArchUnitNET](https://github.com/TNG/ArchUnitNET) - A C# architecture test library to specify and assert architecture rules in C# for automated testing.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
-- [saschpe/PlanningPoker](https://github.com/saschpe/PlanningPoker) - Fast and simple Planning Poker Android app. Designed for phones, tablets and Android Wear devices.
 
 #### 👯 Check out some of my followers
 
