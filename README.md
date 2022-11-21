@@ -21,9 +21,9 @@
 
 #### ⭐ Recent Stars
 
+- [aosabook/aosabook](https://github.com/aosabook/aosabook) - The Architecture of Open Source Applications
+- [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
-- [bmuschko/ckad-crash-course](https://github.com/bmuschko/ckad-crash-course) - In-depth and hands-on practice for acing the exam.
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 
 #### 👯 Check out some of my followers
 
