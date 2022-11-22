@@ -21,9 +21,9 @@
 
 #### ⭐ Recent Stars
 
-- [aosabook/aosabook](https://github.com/aosabook/aosabook) - The Architecture of Open Source Applications
-- [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
-- [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
+- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
+- [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 
 #### 👯 Check out some of my followers
 
