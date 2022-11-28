@@ -5,7 +5,6 @@
 - [NotMyself/DotNetCoreKoans](https://github.com/NotMyself/DotNetCoreKoans) - A set of Koans to teach the C# language on .NET Core.
 - [nunit/nunit](https://github.com/nunit/nunit) - NUnit 3 Framework
 - [MaxAtoms/RepoStatusTable](https://github.com/MaxAtoms/RepoStatusTable) - Overview of the status of your repositories in tabular form
-- [MaxAtoms/maxatoms.github.io](https://github.com/MaxAtoms/maxatoms.github.io) - Personal page
 
 #### 🌱 My latest projects
 
