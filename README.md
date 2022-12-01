@@ -4,6 +4,7 @@
 
 - [NotMyself/DotNetCoreKoans](https://github.com/NotMyself/DotNetCoreKoans) - A set of Koans to teach the C# language on .NET Core.
 - [nunit/nunit](https://github.com/nunit/nunit) - NUnit 3 Framework
+- [Seitenbau/RoomieReloaded](https://github.com/Seitenbau/RoomieReloaded) - Zimbra room booking overview
 - [MaxAtoms/RepoStatusTable](https://github.com/MaxAtoms/RepoStatusTable) - Overview of the status of your repositories in tabular form
 
 #### 🌱 My latest projects
