@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm working on
 
+- [MaxAtoms/AoC](https://github.com/MaxAtoms/AoC) - My solutions to Advent of Code 🎄
 - [NotMyself/DotNetCoreKoans](https://github.com/NotMyself/DotNetCoreKoans) - A set of Koans to teach the C# language on .NET Core.
 - [nunit/nunit](https://github.com/nunit/nunit) - NUnit 3 Framework
 - [Seitenbau/RoomieReloaded](https://github.com/Seitenbau/RoomieReloaded) - Zimbra room booking overview
@@ -9,9 +10,9 @@
 
 #### 🌱 My latest projects
 
+- [MaxAtoms/AoC](https://github.com/MaxAtoms/AoC) - My solutions to Advent of Code 🎄
 - [MaxAtoms/maxatoms.github.io](https://github.com/MaxAtoms/maxatoms.github.io) - Personal page
 - [MaxAtoms/RepoStatusTable](https://github.com/MaxAtoms/RepoStatusTable) - Overview of the status of your repositories in tabular form
-- [MaxAtoms/LabDocumentationToolchain](https://github.com/MaxAtoms/LabDocumentationToolchain) - This is the toolchain that I use to document my lab assignments
 
 #### 📓 Some Gists I wrote
 
