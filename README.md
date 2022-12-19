@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [Fastbyte01/KeepIt](https://github.com/Fastbyte01/KeepIt) - The most powerful minimal Hugo theme.
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
-- [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 
 #### 👯 Check out some of my followers
 
