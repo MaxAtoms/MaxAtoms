@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [MaKlaib/AoC2022](https://github.com/MaKlaib/AoC2022) - 
 - [Fastbyte01/KeepIt](https://github.com/Fastbyte01/KeepIt) - The most powerful minimal Hugo theme.
-- [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 
 #### 👯 Check out some of my followers
 
