@@ -28,6 +28,6 @@
 
 #### 👯 Check out some of my followers
 
-- [AntonioFalcaoJr](https://github.com/AntonioFalcaoJr)
+- [yinchinan010](https://github.com/yinchinan010)
 - [budakgetah6273](https://github.com/budakgetah6273)
 - [mthaithanh](https://github.com/mthaithanh)
