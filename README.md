@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm working on
 
+- [MaxAtoms/3D-models](https://github.com/MaxAtoms/3D-models) - A collection of designs that are suited for 3D printing
 - [MaxAtoms/AoC](https://github.com/MaxAtoms/AoC) - My solutions to Advent of Code 🎄
 - [NotMyself/DotNetCoreKoans](https://github.com/NotMyself/DotNetCoreKoans) - A set of Koans to teach the C# language on .NET Core.
 - [nunit/nunit](https://github.com/nunit/nunit) - NUnit 3 Framework
 - [Seitenbau/RoomieReloaded](https://github.com/Seitenbau/RoomieReloaded) - Zimbra room booking overview
-- [MaxAtoms/RepoStatusTable](https://github.com/MaxAtoms/RepoStatusTable) - Overview of the status of your repositories in tabular form
 
 #### 🌱 My latest projects
 
