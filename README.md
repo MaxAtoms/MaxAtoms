@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [kinx-project/kint](https://github.com/kinx-project/kint) - kinT keyboard controller (Kinesis controller replacement)
 - [Tablane/tablane](https://github.com/Tablane/tablane) - Tablane is a workspace that adapts to your needs. It&#39;s as minimal or as powerful as you need it to be.
 - [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
-- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 
 #### 👯 Check out some of my followers
 
