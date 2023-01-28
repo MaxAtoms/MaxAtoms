@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [kinx-project/kint](https://github.com/kinx-project/kint) - kinT keyboard controller (Kinesis controller replacement)
 - [Tablane/tablane](https://github.com/Tablane/tablane) - Tablane is a workspace that adapts to your needs. It&#39;s as minimal or as powerful as you need it to be.
-- [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 
 #### 👯 Check out some of my followers
 
