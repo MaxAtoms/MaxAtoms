@@ -2,17 +2,17 @@
 
 #### 👷 Check out what I'm working on
 
+- [MaxAtoms/logseq-open-graph](https://github.com/MaxAtoms/logseq-open-graph) - 
 - [MaxAtoms/3D-models](https://github.com/MaxAtoms/3D-models) - A collection of designs that are suited for 3D printing
 - [MaxAtoms/AoC](https://github.com/MaxAtoms/AoC) - My solutions to Advent of Code 🎄
 - [NotMyself/DotNetCoreKoans](https://github.com/NotMyself/DotNetCoreKoans) - A set of Koans to teach the C# language on .NET Core.
 - [nunit/nunit](https://github.com/nunit/nunit) - NUnit 3 Framework
-- [Seitenbau/RoomieReloaded](https://github.com/Seitenbau/RoomieReloaded) - Zimbra room booking overview
 
 #### 🌱 My latest projects
 
+- [MaxAtoms/logseq-open-graph](https://github.com/MaxAtoms/logseq-open-graph) - 
 - [MaxAtoms/AoC](https://github.com/MaxAtoms/AoC) - My solutions to Advent of Code 🎄
 - [MaxAtoms/maxatoms.github.io](https://github.com/MaxAtoms/maxatoms.github.io) - Personal page
-- [MaxAtoms/RepoStatusTable](https://github.com/MaxAtoms/RepoStatusTable) - Overview of the status of your repositories in tabular form
 
 #### 📓 Some Gists I wrote
 
@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
-- [kinx-project/kint](https://github.com/kinx-project/kint) - kinT keyboard controller (Kinesis controller replacement)
-- [Tablane/tablane](https://github.com/Tablane/tablane) - Tablane is a workspace that adapts to your needs. It&#39;s as minimal or as powerful as you need it to be.
+- [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+- [freeotp/freeotp-android](https://github.com/freeotp/freeotp-android) - 
 
 #### 👯 Check out some of my followers
 
