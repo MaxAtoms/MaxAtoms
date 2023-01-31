@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [freeotp/freeotp-android](https://github.com/freeotp/freeotp-android) - 
 
 #### 👯 Check out some of my followers
 
