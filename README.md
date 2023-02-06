@@ -2,17 +2,17 @@
 
 #### 👷 Check out what I'm working on
 
-- [MaxAtoms/logseq-open-graph](https://github.com/MaxAtoms/logseq-open-graph) - 
+- [MaxAtoms/logseq-open-graph](https://github.com/MaxAtoms/logseq-open-graph) - Prototype of a Logseq plugin which is designed to fetch Open Graph metadata for a given link.
+- [MaxAtoms/init.lua](https://github.com/MaxAtoms/init.lua) - My personal Neovim config
 - [MaxAtoms/3D-models](https://github.com/MaxAtoms/3D-models) - A collection of designs that are suited for 3D printing
 - [MaxAtoms/AoC](https://github.com/MaxAtoms/AoC) - My solutions to Advent of Code 🎄
 - [NotMyself/DotNetCoreKoans](https://github.com/NotMyself/DotNetCoreKoans) - A set of Koans to teach the C# language on .NET Core.
-- [nunit/nunit](https://github.com/nunit/nunit) - NUnit 3 Framework
 
 #### 🌱 My latest projects
 
-- [MaxAtoms/logseq-open-graph](https://github.com/MaxAtoms/logseq-open-graph) - 
+- [MaxAtoms/init.lua](https://github.com/MaxAtoms/init.lua) - My personal Neovim config
+- [MaxAtoms/logseq-open-graph](https://github.com/MaxAtoms/logseq-open-graph) - Prototype of a Logseq plugin which is designed to fetch Open Graph metadata for a given link.
 - [MaxAtoms/AoC](https://github.com/MaxAtoms/AoC) - My solutions to Advent of Code 🎄
-- [MaxAtoms/maxatoms.github.io](https://github.com/MaxAtoms/maxatoms.github.io) - Personal page
 
 #### 📓 Some Gists I wrote
 
@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim) - The Refactoring library based off the Refactoring book by Martin Fowler
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
-- [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 
 #### 👯 Check out some of my followers
 
