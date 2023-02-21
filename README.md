@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm working on
 
+- [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) - A collection of awesome resources related to the yearly Advent of Code challenge.
 - [NotMyself/DotNetCoreKoans](https://github.com/NotMyself/DotNetCoreKoans) - A set of Koans to teach the C# language on .NET Core.
 - [MaxAtoms/logseq-open-graph](https://github.com/MaxAtoms/logseq-open-graph) - Prototype of a Logseq plugin which is designed to fetch Open Graph metadata for a given link.
 - [MaxAtoms/init.lua](https://github.com/MaxAtoms/init.lua) - My personal Neovim config
 - [MaxAtoms/3D-models](https://github.com/MaxAtoms/3D-models) - A collection of designs that are suited for 3D printing
-- [MaxAtoms/AoC](https://github.com/MaxAtoms/AoC) - My solutions to Advent of Code 🎄
 
 #### 🌱 My latest projects
 
