@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [fabio42/sasqwatch](https://github.com/fabio42/sasqwatch) - A modern take on the classic watch command
 - [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) - A collection of awesome resources related to the yearly Advent of Code challenge.
 - [neurosnap/neovimcraft](https://github.com/neurosnap/neovimcraft) - website that makes it easy to find neovim plugins
-- [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
 
 #### 👯 Check out some of my followers
 
