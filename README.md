@@ -16,9 +16,9 @@
 
 #### 📓 Some Gists I wrote
 
+- [Removes duplicate files in the current working directory when their hash matches exactly](https://gist.github.com/adb1a103726545c84d591b7be5eec134)
 - [Trying out C# Caller Attributes](https://gist.github.com/9b9f14f7bab6d7ed7a64316d211d5f5d)
 - [Git Repos Year-in-review](https://gist.github.com/2586ee55c017c56db698a939220717a1)
-- [Visual Studio Code/Code-OSS settings and extensions backup](https://gist.github.com/b30163855bc6995588a5af9e88b28e51)
 
 #### ⭐ Recent Stars
 
