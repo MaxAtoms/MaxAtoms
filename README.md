@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [JetBrains/teamcity-csharp-interactive](https://github.com/JetBrains/teamcity-csharp-interactive) - The cross platform build automation system: C# scripts &#43; powerful API
 - [fabio42/sasqwatch](https://github.com/fabio42/sasqwatch) - A modern take on the classic watch command
 - [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) - A collection of awesome resources related to the yearly Advent of Code challenge.
-- [neurosnap/neovimcraft](https://github.com/neurosnap/neovimcraft) - website that makes it easy to find neovim plugins
 
 #### 👯 Check out some of my followers
 
