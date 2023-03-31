@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm working on
 
+- [Seitenbau/RoomieReloaded](https://github.com/Seitenbau/RoomieReloaded) - Zimbra room booking overview
 - [dgkanatsios/CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises) - A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation
 - [NotMyself/DotNetCoreKoans](https://github.com/NotMyself/DotNetCoreKoans) - A set of Koans to teach the C# language on .NET Core.
 - [MaxAtoms/DotnetBenchmarks](https://github.com/MaxAtoms/DotnetBenchmarks) - Benchmarks investigating the performance of some interesting scenarios and controversies in .NET
 - [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) - A collection of awesome resources related to the yearly Advent of Code challenge.
-- [MaxAtoms/logseq-open-graph](https://github.com/MaxAtoms/logseq-open-graph) - Prototype of a Logseq plugin which is designed to fetch Open Graph metadata for a given link.
 
 #### 🌱 My latest projects
 
