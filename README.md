@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [waf/CSharpRepl](https://github.com/waf/CSharpRepl) - A command line C# REPL with syntax highlighting – explore the language, libraries and nuget packages interactively.
+- [leonardochaia/dotnet-affected](https://github.com/leonardochaia/dotnet-affected) - .NET tool for determining which projects are affected by a set of changes. Useful for large projects or monorepos.
 - [JetBrains/teamcity-csharp-interactive](https://github.com/JetBrains/teamcity-csharp-interactive) - The cross platform build automation system: C# scripts &#43; powerful API
-- [fabio42/sasqwatch](https://github.com/fabio42/sasqwatch) - A modern take on the classic watch command
-- [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) - A collection of awesome resources related to the yearly Advent of Code challenge.
 
 #### 👯 Check out some of my followers
 
