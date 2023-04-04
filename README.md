@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm working on
 
-- [Seitenbau/RoomieReloaded](https://github.com/Seitenbau/RoomieReloaded) - Zimbra room booking overview
 - [dgkanatsios/CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises) - A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation
-- [NotMyself/DotNetCoreKoans](https://github.com/NotMyself/DotNetCoreKoans) - A set of Koans to teach the C# language on .NET Core.
+- [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) - A .NET library that makes it easier to create beautiful console applications.
+- [Seitenbau/RoomieReloaded](https://github.com/Seitenbau/RoomieReloaded) - Zimbra room booking overview
 - [MaxAtoms/DotnetBenchmarks](https://github.com/MaxAtoms/DotnetBenchmarks) - Benchmarks investigating the performance of some interesting scenarios and controversies in .NET
-- [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) - A collection of awesome resources related to the yearly Advent of Code challenge.
+- [NotMyself/DotNetCoreKoans](https://github.com/NotMyself/DotNetCoreKoans) - A set of Koans to teach the C# language on .NET Core.
 
 #### 🌱 My latest projects
 
@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [waf/CSharpRepl](https://github.com/waf/CSharpRepl) - A command line C# REPL with syntax highlighting – explore the language, libraries and nuget packages interactively.
 - [leonardochaia/dotnet-affected](https://github.com/leonardochaia/dotnet-affected) - .NET tool for determining which projects are affected by a set of changes. Useful for large projects or monorepos.
-- [JetBrains/teamcity-csharp-interactive](https://github.com/JetBrains/teamcity-csharp-interactive) - The cross platform build automation system: C# scripts &#43; powerful API
 
 #### 👯 Check out some of my followers
 
