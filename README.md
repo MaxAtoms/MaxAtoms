@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [dotnet/Nerdbank.GitVersioning](https://github.com/dotnet/Nerdbank.GitVersioning) - Stamp your assemblies, packages and more with a unique version generated from a single, simple version.json file and include git commit IDs for non-official builds.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [waf/CSharpRepl](https://github.com/waf/CSharpRepl) - A command line C# REPL with syntax highlighting – explore the language, libraries and nuget packages interactively.
-- [leonardochaia/dotnet-affected](https://github.com/leonardochaia/dotnet-affected) - .NET tool for determining which projects are affected by a set of changes. Useful for large projects or monorepos.
 
 #### 👯 Check out some of my followers
 
