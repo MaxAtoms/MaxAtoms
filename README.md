@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [ThePrimeagen/neural-js](https://github.com/ThePrimeagen/neural-js) - A kick-ass neural network for javascript
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox
 - [kaarmu/typst.vim](https://github.com/kaarmu/typst.vim) - Vim plugin for Typst
-- [NotMyself/GildedRose](https://github.com/NotMyself/GildedRose) - Refactoring Kata
 
 #### 👯 Check out some of my followers
 
