@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [bradygaster/dotnet-cloud-native-build-2023](https://github.com/bradygaster/dotnet-cloud-native-build-2023) - 
 - [microsoft/reverse-proxy](https://github.com/microsoft/reverse-proxy) - A toolkit for developing high-performance HTTP reverse proxy applications.
 - [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) - Blazor Component Library based on Material design with an emphasis on ease of use. Mainly written in C# with Javascript kept to a bare minimum it empowers .NET developers to easily debug it if needed.
-- [zalando/tech-radar](https://github.com/zalando/tech-radar) - Visualizing our technology choices
 
 #### 👯 Check out some of my followers
 
