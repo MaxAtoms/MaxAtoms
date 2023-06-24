@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress
-- [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 
 #### 👯 Check out some of my followers
 
