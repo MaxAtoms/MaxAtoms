@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
-- [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-- [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress
+- [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
+- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations. 
+- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 
 #### 👯 Check out some of my followers
 
