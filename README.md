@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations. 
-- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 
 #### 👯 Check out some of my followers
 
