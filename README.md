@@ -28,6 +28,6 @@
 
 #### 👯 Check out some of my followers
 
+- [AbdulMoizWali](https://github.com/AbdulMoizWali)
 - [sean-ie](https://github.com/sean-ie)
 - [yinchinan010](https://github.com/yinchinan010)
-- [budakgetah6273](https://github.com/budakgetah6273)
