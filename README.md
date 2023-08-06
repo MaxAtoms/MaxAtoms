@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [Wilm0r/giggity](https://github.com/Wilm0r/giggity) - Generic Android conference schedule viewer
+- [capnproto/capnproto](https://github.com/capnproto/capnproto) - Cap&#39;n Proto serialization/RPC system - core tools and C&#43;&#43; library
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
-- [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
-- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations. 
 
 #### 👯 Check out some of my followers
 
