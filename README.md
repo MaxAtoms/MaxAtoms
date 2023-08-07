@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
+- [lona-web-org/lona](https://github.com/lona-web-org/lona) - Write responsive web apps in full python
 - [Wilm0r/giggity](https://github.com/Wilm0r/giggity) - Generic Android conference schedule viewer
-- [capnproto/capnproto](https://github.com/capnproto/capnproto) - Cap&#39;n Proto serialization/RPC system - core tools and C&#43;&#43; library
-- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 
 #### 👯 Check out some of my followers
 
