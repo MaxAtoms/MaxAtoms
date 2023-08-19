@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [fscherf/virtual-cursor](https://github.com/fscherf/virtual-cursor) - 
 - [libgit2/libgit2sharp](https://github.com/libgit2/libgit2sharp) - Git &#43; .NET = ❤
 - [magcius/noclip.website](https://github.com/magcius/noclip.website) - A digital museum of video game levels
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 
 #### 👯 Check out some of my followers
 
