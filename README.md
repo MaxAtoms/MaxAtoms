@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [fscherf/virtual-cursor](https://github.com/fscherf/virtual-cursor) - 
 - [libgit2/libgit2sharp](https://github.com/libgit2/libgit2sharp) - Git &#43; .NET = ❤
-- [magcius/noclip.website](https://github.com/magcius/noclip.website) - A digital museum of video game levels
 
 #### 👯 Check out some of my followers
 
