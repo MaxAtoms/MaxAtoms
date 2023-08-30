@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [neetcode-gh/leetcode](https://github.com/neetcode-gh/leetcode) - Leetcode solutions
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [fscherf/virtual-cursor](https://github.com/fscherf/virtual-cursor) - 
-- [libgit2/libgit2sharp](https://github.com/libgit2/libgit2sharp) - Git &#43; .NET = ❤
 
 #### 👯 Check out some of my followers
 
