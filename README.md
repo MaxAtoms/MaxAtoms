@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [dotnet/try](https://github.com/dotnet/try) - Try .NET provides developers and content authors with tools to create interactive experiences.
 - [neetcode-gh/leetcode](https://github.com/neetcode-gh/leetcode) - Leetcode solutions
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
-- [fscherf/virtual-cursor](https://github.com/fscherf/virtual-cursor) - 
 
 #### 👯 Check out some of my followers
 
