@@ -22,12 +22,12 @@
 
 #### ⭐ Recent Stars
 
+- [netzpolitikorg/xandr_recherche_EU](https://github.com/netzpolitikorg/xandr_recherche_EU) - This repository documents the data processing of our xandr-investigation within the EU
 - [dotnet/try](https://github.com/dotnet/try) - Try .NET provides developers and content authors with tools to create interactive experiences.
 - [neetcode-gh/leetcode](https://github.com/neetcode-gh/leetcode) - Leetcode solutions
-- [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 
 #### 👯 Check out some of my followers
 
+- [D4Fi](https://github.com/D4Fi)
 - [AbdulMoizWali](https://github.com/AbdulMoizWali)
 - [sean-ie](https://github.com/sean-ie)
-- [yinchinan010](https://github.com/yinchinan010)
