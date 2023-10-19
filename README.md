@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [fnogatz/CHR.js](https://github.com/fnogatz/CHR.js) - Compile and run Constraint Handling Rules (CHR) in JavaScript
 - [IoLanguage/io](https://github.com/IoLanguage/io) - Io programming language. Inspired by Self, Smalltalk and LISP.
 - [Azure/data-api-builder](https://github.com/Azure/data-api-builder) - Data API builder for Azure Databases provides modern REST and GraphQL endpoints to your Azure Databases.
-- [netzpolitikorg/xandr_recherche_EU](https://github.com/netzpolitikorg/xandr_recherche_EU) - This repository documents the data processing of our xandr-investigation within the EU
 
 #### 👯 Check out some of my followers
 
