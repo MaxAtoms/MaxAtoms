@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
-- [fempire/women-tech-speakers-organizers](https://github.com/fempire/women-tech-speakers-organizers) - A list of women tech speakers &amp; organizers. Add yourself or others by submitting a PR! PS if you do add someone, make sure to tell them! :) #fempire
-- [fnogatz/CHR.js](https://github.com/fnogatz/CHR.js) - Compile and run Constraint Handling Rules (CHR) in JavaScript
-- [IoLanguage/io](https://github.com/IoLanguage/io) - Io programming language. Inspired by Self, Smalltalk and LISP.
+- [dotnet/designs](https://github.com/dotnet/designs) - This repo is used for reviewing new .NET designs.
+- [Textualize/textual-web](https://github.com/Textualize/textual-web) - Run TUIs and terminals in your browser
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 
 #### 👯 Check out some of my followers
 
