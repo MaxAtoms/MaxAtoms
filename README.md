@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
 - [amantinband/clean-architecture](https://github.com/amantinband/clean-architecture) - The ultimate clean architecture template for .NET applications 💪
 - [nvim-java/nvim-java](https://github.com/nvim-java/nvim-java) - Painless Java in Neovim
-- [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 
 #### 👯 Check out some of my followers
 
