@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [llenotre/maestro](https://github.com/llenotre/maestro) - Unix-like kernel written in Rust
 - [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
 - [amantinband/clean-architecture](https://github.com/amantinband/clean-architecture) - The ultimate clean architecture template for .NET applications 💪
-- [nvim-java/nvim-java](https://github.com/nvim-java/nvim-java) - Painless Java in Neovim
 
 #### 👯 Check out some of my followers
 
