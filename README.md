@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
-- [llenotre/maestro](https://github.com/llenotre/maestro) - Unix-like kernel written in Rust
-- [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
-- [amantinband/clean-architecture](https://github.com/amantinband/clean-architecture) - The ultimate clean architecture template for .NET applications 💪
+- [antlr/grammars-v4](https://github.com/antlr/grammars-v4) - Grammars written for ANTLR v4; expectation that the grammars are free of actions.
+- [mike-lischke/vscode-antlr4](https://github.com/mike-lischke/vscode-antlr4) - ANTLR4 language support for Visual Studio Code
+- [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 
 #### 👯 Check out some of my followers
 
