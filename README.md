@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
-- [judge0/judge0](https://github.com/judge0/judge0) - 🔥 The most advanced open-source online code execution system in the world.
-- [BenMorris/NetArchTest](https://github.com/BenMorris/NetArchTest) - A fluent API for .Net that can enforce architectural rules in unit tests.
-- [antlr/grammars-v4](https://github.com/antlr/grammars-v4) - Grammars written for ANTLR v4; expectation that the grammars are free of actions.
+- [nick8325/quickcheck](https://github.com/nick8325/quickcheck) - Automatic testing of Haskell programs.
+- [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server) - Official haskell ide support via language server (LSP). Successor of ghcide &amp; haskell-ide-engine.
+- [haskell/cabal](https://github.com/haskell/cabal) - Official upstream development repository for Cabal and cabal-install
 
 #### 👯 Check out some of my followers
 
