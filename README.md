@@ -28,6 +28,6 @@
 
 #### 👯 Check out some of my followers
 
+- [leadershyun](https://github.com/leadershyun)
 - [D4Fi](https://github.com/D4Fi)
 - [AbdulMoizWali](https://github.com/AbdulMoizWali)
-- [sean-ie](https://github.com/sean-ie)
