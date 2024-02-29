@@ -28,6 +28,6 @@
 
 #### 👯 Check out some of my followers
 
+- [EagleoutIce](https://github.com/EagleoutIce)
 - [leadershyun](https://github.com/leadershyun)
 - [D4Fi](https://github.com/D4Fi)
-- [AbdulMoizWali](https://github.com/AbdulMoizWali)
