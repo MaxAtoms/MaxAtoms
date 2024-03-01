@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [SoftVarE-Group/SlideTemplate](https://github.com/SoftVarE-Group/SlideTemplate) - A beamer latex template for slides and lectures at University of Ulm
+- [SEatUPB/FancyBeamer](https://github.com/SEatUPB/FancyBeamer) - A beamer presentation template for easy animations
 - [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck.
-- [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck) - Emulator configurator for Steam Deck
-- [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 
 #### 👯 Check out some of my followers
 
