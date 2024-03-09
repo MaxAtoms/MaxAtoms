@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [SoftVarE-Group/SlideTemplate](https://github.com/SoftVarE-Group/SlideTemplate) - A beamer latex template for slides and lectures at University of Ulm
 - [SEatUPB/FancyBeamer](https://github.com/SEatUPB/FancyBeamer) - A beamer presentation template for easy animations
-- [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck.
 
 #### 👯 Check out some of my followers
 
