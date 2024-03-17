@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
-- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
-- [SoftVarE-Group/SlideTemplate](https://github.com/SoftVarE-Group/SlideTemplate) - A beamer latex template for slides and lectures at University of Ulm
-- [SEatUPB/FancyBeamer](https://github.com/SEatUPB/FancyBeamer) - A beamer presentation template for easy animations
+- [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
+- [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
+- [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
 
 #### 👯 Check out some of my followers
 
