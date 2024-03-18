@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm working on
 
+- [MaxAtoms/AoC](https://github.com/MaxAtoms/AoC) - My solutions to Advent of Code 🎄
 - [DotNetKoans/DotNetKoans](https://github.com/DotNetKoans/DotNetKoans) - A set of Koans to teach the C# language on .NET Core.
 - [Seitenbau/RoomieReloaded](https://github.com/Seitenbau/RoomieReloaded) - Zimbra room booking overview
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [MaxAtoms/SmallWebExperiments](https://github.com/MaxAtoms/SmallWebExperiments) - Some small and quick experiments using different web technologies
-- [dgkanatsios/CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises) - A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation
 
 #### 🌱 My latest projects
 
@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [ndmitchell/hlint](https://github.com/ndmitchell/hlint) - Haskell source code suggestions
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
-- [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
 
 #### 👯 Check out some of my followers
 
