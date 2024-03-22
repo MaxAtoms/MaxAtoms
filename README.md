@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [krausest/js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) - A comparison of the performance of a few popular javascript frameworks
 - [ndmitchell/hlint](https://github.com/ndmitchell/hlint) - Haskell source code suggestions
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
-- [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 
 #### 👯 Check out some of my followers
 
