@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [haskell-CI/haskell-ci](https://github.com/haskell-CI/haskell-ci) - Scripts and instructions for using CI services (e.g. Travis CI or Appveyor) with multiple GHC configurations
+- [peti/cabal2spec](https://github.com/peti/cabal2spec) - Convert Cabal files into rpm spec files
 - [krausest/js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) - A comparison of the performance of a few popular javascript frameworks
-- [ndmitchell/hlint](https://github.com/ndmitchell/hlint) - Haskell source code suggestions
-- [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 
 #### 👯 Check out some of my followers
 
