@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [phadej/cabal-extras](https://github.com/phadej/cabal-extras) - A tool suite to aid Haskell development using `cabal-install`
 - [haskell-CI/haskell-ci](https://github.com/haskell-CI/haskell-ci) - Scripts and instructions for using CI services (e.g. Travis CI or Appveyor) with multiple GHC configurations
-- [peti/cabal2spec](https://github.com/peti/cabal2spec) - Convert Cabal files into rpm spec files
 
 #### 👯 Check out some of my followers
 
