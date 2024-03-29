@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [eclipse-langium/langium](https://github.com/eclipse-langium/langium) - Next-gen language engineering / DSL framework
+- [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
-- [phadej/cabal-extras](https://github.com/phadej/cabal-extras) - A tool suite to aid Haskell development using `cabal-install`
-- [haskell-CI/haskell-ci](https://github.com/haskell-CI/haskell-ci) - Scripts and instructions for using CI services (e.g. Travis CI or Appveyor) with multiple GHC configurations
 
 #### 👯 Check out some of my followers
 
