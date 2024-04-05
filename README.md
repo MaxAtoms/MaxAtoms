@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [hspec/HUnit](https://github.com/hspec/HUnit) - A unit testing framework for Haskell
 - [eclipse-langium/langium](https://github.com/eclipse-langium/langium) - Next-gen language engineering / DSL framework
 - [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
-- [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 
 #### 👯 Check out some of my followers
 
