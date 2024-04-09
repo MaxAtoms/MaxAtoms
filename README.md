@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [maxGraph/maxGraph](https://github.com/maxGraph/maxGraph) - maxGraph is a fully client side JavaScript diagramming library
 - [haskell/ghcup-hs](https://github.com/haskell/ghcup-hs) - 
 - [hspec/HUnit](https://github.com/hspec/HUnit) - A unit testing framework for Haskell
-- [eclipse-langium/langium](https://github.com/eclipse-langium/langium) - Next-gen language engineering / DSL framework
 
 #### 👯 Check out some of my followers
 
