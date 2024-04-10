@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [maxGraph/maxGraph](https://github.com/maxGraph/maxGraph) - maxGraph is a fully client side JavaScript diagramming library
 - [haskell/ghcup-hs](https://github.com/haskell/ghcup-hs) - 
-- [hspec/HUnit](https://github.com/hspec/HUnit) - A unit testing framework for Haskell
 
 #### 👯 Check out some of my followers
 
