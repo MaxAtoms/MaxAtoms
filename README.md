@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
+- [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing 
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
-- [maxGraph/maxGraph](https://github.com/maxGraph/maxGraph) - maxGraph is a fully client side JavaScript diagramming library
-- [haskell/ghcup-hs](https://github.com/haskell/ghcup-hs) - 
 
 #### 👯 Check out some of my followers
 
