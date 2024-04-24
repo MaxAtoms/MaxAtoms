@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [commercialhaskell/stack](https://github.com/commercialhaskell/stack) - The Haskell Tool Stack
 - [EagleoutIce/sopra-collection](https://github.com/EagleoutIce/sopra-collection) - Eine Ansammlung (hoffentlich) wundertoller LaTeX2e Klassen und Pakete, für das Sopra an der Uni Ulm.
 - [EagleoutIce/uulm-cs-poster](https://github.com/EagleoutIce/uulm-cs-poster) - An inofficial LaTeX poster-theme for the University of Ulm
-- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 
 #### 👯 Check out some of my followers
 
