@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite.
+- [VariantSync/DiffDetective](https://github.com/VariantSync/DiffDetective) - Library for Variability-Aware Differencing and the Analysis of Edits to Preprocessor-Based Software Product Lines
 - [commercialhaskell/stack](https://github.com/commercialhaskell/stack) - The Haskell Tool Stack
-- [EagleoutIce/sopra-collection](https://github.com/EagleoutIce/sopra-collection) - Eine Ansammlung (hoffentlich) wundertoller LaTeX2e Klassen und Pakete, für das Sopra an der Uni Ulm.
-- [EagleoutIce/uulm-cs-poster](https://github.com/EagleoutIce/uulm-cs-poster) - An inofficial LaTeX poster-theme for the University of Ulm
 
 #### 👯 Check out some of my followers
 
