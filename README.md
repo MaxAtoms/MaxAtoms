@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [typst/templates](https://github.com/typst/templates) - Templates that are directly maintained by the Typst team.
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite.
 - [VariantSync/DiffDetective](https://github.com/VariantSync/DiffDetective) - Library for Variability-Aware Differencing and the Analysis of Edits to Preprocessor-Based Software Product Lines
-- [commercialhaskell/stack](https://github.com/commercialhaskell/stack) - The Haskell Tool Stack
 
 #### 👯 Check out some of my followers
 
