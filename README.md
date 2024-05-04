@@ -28,6 +28,6 @@
 
 #### 👯 Check out some of my followers
 
+- [LukasPietzschmann](https://github.com/LukasPietzschmann)
+- [Tanikai](https://github.com/Tanikai)
 - [EagleoutIce](https://github.com/EagleoutIce)
-- [leadershyun](https://github.com/leadershyun)
-- [D4Fi](https://github.com/D4Fi)
