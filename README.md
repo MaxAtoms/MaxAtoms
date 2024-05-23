@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [jakobwenzel/MensaGuthaben](https://github.com/jakobwenzel/MensaGuthaben) - This app allows you to read the current balance of cards manufactured by Intercard and Magnacarta via NFC.
 - [vmware-research/verifiable-controllers](https://github.com/vmware-research/verifiable-controllers) - This is a VMware Research Group project. It is an experimental framework to build practical, formally verified, cluster management controllers.
 - [typst/templates](https://github.com/typst/templates) - Templates that are directly maintained by the Typst team.
-- [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite.
 
 #### 👯 Check out some of my followers
 
