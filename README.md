@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [Code-Inspect/vscode-flowr](https://github.com/Code-Inspect/vscode-flowr) - flowR Extension for Visual Studio Code 
 - [kowainik/stan](https://github.com/kowainik/stan) - 🕵️ Haskell STatic ANalyser
 - [jakobwenzel/MensaGuthaben](https://github.com/jakobwenzel/MensaGuthaben) - This app allows you to read the current balance of cards manufactured by Intercard and Magnacarta via NFC.
-- [vmware-research/verifiable-controllers](https://github.com/vmware-research/verifiable-controllers) - This is a VMware Research Group project. It is an experimental framework to build practical, formally verified, cluster management controllers.
 
 #### 👯 Check out some of my followers
 
