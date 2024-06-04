@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
-- [Code-Inspect/vscode-flowr](https://github.com/Code-Inspect/vscode-flowr) - flowR Extension for Visual Studio Code 
-- [kowainik/stan](https://github.com/kowainik/stan) - 🕵️ Haskell STatic ANalyser
-- [jakobwenzel/MensaGuthaben](https://github.com/jakobwenzel/MensaGuthaben) - This app allows you to read the current balance of cards manufactured by Intercard and Magnacarta via NFC.
+- [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
+- [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 
 #### 👯 Check out some of my followers
 
