@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
-- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
-- [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
-- [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
+- [haskell/hie-bios](https://github.com/haskell/hie-bios) - Set up a GHC API session for various Haskell Projects
+- [haskell/stylish-haskell](https://github.com/haskell/stylish-haskell) - Haskell code prettifier
+- [ennocramer/floskell](https://github.com/ennocramer/floskell) - Floskell is a flexible Haskell source code pretty printer.
 
 #### 👯 Check out some of my followers
 
