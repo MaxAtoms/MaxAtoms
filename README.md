@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [sol/doctest](https://github.com/sol/doctest) - An implementation of Python&#39;s doctest for Haskell
 - [haskell/hie-bios](https://github.com/haskell/hie-bios) - Set up a GHC API session for various Haskell Projects
 - [haskell/stylish-haskell](https://github.com/haskell/stylish-haskell) - Haskell code prettifier
-- [ennocramer/floskell](https://github.com/ennocramer/floskell) - Floskell is a flexible Haskell source code pretty printer.
 
 #### 👯 Check out some of my followers
 
