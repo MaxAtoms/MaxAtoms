@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [UnkindPartition/tasty](https://github.com/UnkindPartition/tasty) - Modern and extensible testing framework for Haskell
+- [hspec/hspec](https://github.com/hspec/hspec) - A Testing Framework for Haskell
 - [sol/doctest](https://github.com/sol/doctest) - An implementation of Python&#39;s doctest for Haskell
-- [haskell/hie-bios](https://github.com/haskell/hie-bios) - Set up a GHC API session for various Haskell Projects
-- [haskell/stylish-haskell](https://github.com/haskell/stylish-haskell) - Haskell code prettifier
 
 #### 👯 Check out some of my followers
 
