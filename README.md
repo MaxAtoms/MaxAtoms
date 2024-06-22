@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [Tanikai/uniulm_mensaparser](https://github.com/Tanikai/uniulm_mensaparser) - Parser for PDF mensa plans at Ulm University / Studierendenwerk Ulm.
 - [UnkindPartition/tasty](https://github.com/UnkindPartition/tasty) - Modern and extensible testing framework for Haskell
 - [hspec/hspec](https://github.com/hspec/hspec) - A Testing Framework for Haskell
-- [sol/doctest](https://github.com/sol/doctest) - An implementation of Python&#39;s doctest for Haskell
 
 #### 👯 Check out some of my followers
 
