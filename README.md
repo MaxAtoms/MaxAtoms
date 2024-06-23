@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
-- [Tanikai/uniulm_mensaparser](https://github.com/Tanikai/uniulm_mensaparser) - Parser for PDF mensa plans at Ulm University / Studierendenwerk Ulm.
-- [UnkindPartition/tasty](https://github.com/UnkindPartition/tasty) - Modern and extensible testing framework for Haskell
-- [hspec/hspec](https://github.com/hspec/hspec) - A Testing Framework for Haskell
+- [Tanikai/uniulm_mensa_api](https://github.com/Tanikai/uniulm_mensa_api) - REST API for Canteen / Mensa plans at Ulm University
+- [Tanikai/mensaplan-web-interface](https://github.com/Tanikai/mensaplan-web-interface) - Mensaplan for Ulm University / Studierendenwerk Ulm.
+- [cetz-package/cetz](https://github.com/cetz-package/cetz) - CeTZ: ein Typst Zeichenpaket - A library for drawing stuff with Typst.
 
 #### 👯 Check out some of my followers
 
