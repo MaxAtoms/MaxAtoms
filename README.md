@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
+- [typst/hayagriva](https://github.com/typst/hayagriva) - Rusty bibliography management.
 - [Jollywatt/typst-fletcher](https://github.com/Jollywatt/typst-fletcher) - Typst package for drawing diagrams with arrows, built on top of CeTZ.
-- [lkoehl/typst-boxes](https://github.com/lkoehl/typst-boxes) - 
-- [Tanikai/uniulm_mensa_api](https://github.com/Tanikai/uniulm_mensa_api) - REST API for Canteen / Mensa plans at Ulm University
 
 #### 👯 Check out some of my followers
 
