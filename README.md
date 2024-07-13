@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm working on
 
+- [cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation) - Cypress Documentation including Guides, API, Plugins, Examples, &amp; FAQ.
 - [MaxAtoms/AoC](https://github.com/MaxAtoms/AoC) - My solutions to Advent of Code 🎄
 - [DotNetKoans/DotNetKoans](https://github.com/DotNetKoans/DotNetKoans) - A set of Koans to teach the C# language on .NET Core.
 - [Seitenbau/RoomieReloaded](https://github.com/Seitenbau/RoomieReloaded) - Zimbra room booking overview
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
-- [MaxAtoms/SmallWebExperiments](https://github.com/MaxAtoms/SmallWebExperiments) - Some small and quick experiments using different web technologies
 
 #### 🌱 My latest projects
 
