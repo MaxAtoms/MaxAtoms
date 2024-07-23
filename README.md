@@ -21,12 +21,12 @@
 
 #### ⭐ Recent Stars
 
+- [flowr-analysis/flowr](https://github.com/flowr-analysis/flowr) - A program slicer and dataflow analyzer for the R programming language.
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [typst/hayagriva](https://github.com/typst/hayagriva) - Rusty bibliography management.
-- [Jollywatt/typst-fletcher](https://github.com/Jollywatt/typst-fletcher) - Typst package for drawing diagrams with arrows, built on top of CeTZ.
 
 #### 👯 Check out some of my followers
 
+- [NobleMajo](https://github.com/NobleMajo)
 - [LukasPietzschmann](https://github.com/LukasPietzschmann)
 - [Tanikai](https://github.com/Tanikai)
-- [EagleoutIce](https://github.com/EagleoutIce)
