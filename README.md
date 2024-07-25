@@ -27,6 +27,6 @@
 
 #### 👯 Check out some of my followers
 
-- [NobleMajo](https://github.com/NobleMajo)
 - [LukasPietzschmann](https://github.com/LukasPietzschmann)
 - [Tanikai](https://github.com/Tanikai)
+- [EagleoutIce](https://github.com/EagleoutIce)
