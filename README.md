@@ -27,6 +27,6 @@
 
 #### 👯 Check out some of my followers
 
-- [AbdeenM](https://github.com/AbdeenM)
 - [LukasPietzschmann](https://github.com/LukasPietzschmann)
 - [Tanikai](https://github.com/Tanikai)
+- [EagleoutIce](https://github.com/EagleoutIce)
