@@ -21,9 +21,9 @@
 
 #### ⭐ Recent Stars
 
+- [typst/comemo](https://github.com/typst/comemo) - Incremental computation through constrained memoization.
 - [flowr-analysis/flowr](https://github.com/flowr-analysis/flowr) - A program slicer and dataflow analyzer for the R programming language.
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
-- [typst/hayagriva](https://github.com/typst/hayagriva) - Rusty bibliography management.
 
 #### 👯 Check out some of my followers
 
