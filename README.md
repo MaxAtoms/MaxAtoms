@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm working on
 
+- [MaxAtoms/T-705-ASDS](https://github.com/MaxAtoms/T-705-ASDS) - Lecture notes from Applied Statistics for Data Science @ Reykjavík University (Fall term 2024)
 - [cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation) - Cypress Documentation including Guides, API, Plugins, Examples, &amp; FAQ.
 - [MaxAtoms/AoC](https://github.com/MaxAtoms/AoC) - My solutions to Advent of Code 🎄
 - [DotNetKoans/DotNetKoans](https://github.com/DotNetKoans/DotNetKoans) - A set of Koans to teach the C# language on .NET Core.
@@ -9,9 +10,9 @@
 
 #### 🌱 My latest projects
 
+- [MaxAtoms/T-705-ASDS](https://github.com/MaxAtoms/T-705-ASDS) - Lecture notes from Applied Statistics for Data Science @ Reykjavík University (Fall term 2024)
 - [MaxAtoms/SmallWebExperiments](https://github.com/MaxAtoms/SmallWebExperiments) - Some small and quick experiments using different web technologies
 - [MaxAtoms/DotnetBenchmarks](https://github.com/MaxAtoms/DotnetBenchmarks) - Benchmarks investigating the performance of some interesting scenarios and controversies in .NET
-- [MaxAtoms/init.lua](https://github.com/MaxAtoms/init.lua) - My personal Neovim config
 
 #### 📓 Some Gists I wrote
 
