@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [Automattic/pocket-casts-android](https://github.com/Automattic/pocket-casts-android) - Pocket Casts Android 🎧
+- [Automattic/pocket-casts-ios](https://github.com/Automattic/pocket-casts-ios) - Pocket Casts iOS app 🎧
 - [typst/comemo](https://github.com/typst/comemo) - Incremental computation through constrained memoization.
-- [flowr-analysis/flowr](https://github.com/flowr-analysis/flowr) - A program slicer and dataflow analyzer for the R programming language.
-- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 
 #### 👯 Check out some of my followers
 
