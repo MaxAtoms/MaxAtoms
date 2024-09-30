@@ -28,6 +28,6 @@
 
 #### 👯 Check out some of my followers
 
+- [seniorvuejsdeveloper](https://github.com/seniorvuejsdeveloper)
 - [Connor9994](https://github.com/Connor9994)
 - [LukasPietzschmann](https://github.com/LukasPietzschmann)
-- [Tanikai](https://github.com/Tanikai)
