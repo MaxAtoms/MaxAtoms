@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [replit/codemirror-vim](https://github.com/replit/codemirror-vim) - Vim keybindings for CM6
 - [Automattic/pocket-casts-android](https://github.com/Automattic/pocket-casts-android) - Pocket Casts Android 🎧
 - [Automattic/pocket-casts-ios](https://github.com/Automattic/pocket-casts-ios) - Pocket Casts iOS app 🎧
-- [typst/comemo](https://github.com/typst/comemo) - Incremental computation through constrained memoization.
 
 #### 👯 Check out some of my followers
 
