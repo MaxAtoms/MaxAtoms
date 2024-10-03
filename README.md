@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [codemirror/dev](https://github.com/codemirror/dev) - Development repository for the CodeMirror editor project
+- [uiwjs/react-codemirror](https://github.com/uiwjs/react-codemirror) - CodeMirror 6 component for React. @codemirror https://uiwjs.github.io/react-codemirror/
 - [replit/codemirror-vim](https://github.com/replit/codemirror-vim) - Vim keybindings for CM6
-- [Automattic/pocket-casts-android](https://github.com/Automattic/pocket-casts-android) - Pocket Casts Android 🎧
-- [Automattic/pocket-casts-ios](https://github.com/Automattic/pocket-casts-ios) - Pocket Casts iOS app 🎧
 
 #### 👯 Check out some of my followers
 
