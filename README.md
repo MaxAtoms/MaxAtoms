@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [nltk/nltk](https://github.com/nltk/nltk) - NLTK Source
+- [securingsincity/engineering-blogs](https://github.com/securingsincity/engineering-blogs) - A curated list of engineering blogs
 - [codemirror/dev](https://github.com/codemirror/dev) - Development repository for the CodeMirror editor project
-- [uiwjs/react-codemirror](https://github.com/uiwjs/react-codemirror) - CodeMirror 6 component for React. @codemirror https://uiwjs.github.io/react-codemirror/
-- [replit/codemirror-vim](https://github.com/replit/codemirror-vim) - Vim keybindings for CM6
 
 #### 👯 Check out some of my followers
 
