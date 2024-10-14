@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [acl-org/acl-style-files](https://github.com/acl-org/acl-style-files) - Official style files for papers submitted to venues of the Association for Computational Linguistics
+- [tuna-f1sh/cyme](https://github.com/tuna-f1sh/cyme) - List system USB buses and devices. A modern cross-platform lsusb that attempts to maintain compatibility with, but also add new features
 - [nltk/nltk](https://github.com/nltk/nltk) - NLTK Source
-- [securingsincity/engineering-blogs](https://github.com/securingsincity/engineering-blogs) - A curated list of engineering blogs
-- [codemirror/dev](https://github.com/codemirror/dev) - Development repository for the CodeMirror editor project
 
 #### 👯 Check out some of my followers
 
