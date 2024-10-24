@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm working on
 
 - [MaxAtoms/T-705-ASDS](https://github.com/MaxAtoms/T-705-ASDS) - Lecture notes from Applied Statistics for Data Science @ Reykjavík University (Fall term 2024)
-- [cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation) - Cypress Documentation including Guides, API, Plugins, Examples, &amp; FAQ.
+- [cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation) - Cypress Documentation for the Cypress App, API, Cypress Cloud, UI Coverage and Cypress Accessibility.
 - [MaxAtoms/AoC](https://github.com/MaxAtoms/AoC) - My solutions to Advent of Code 🎄
 - [DotNetKoans/DotNetKoans](https://github.com/DotNetKoans/DotNetKoans) - A set of Koans to teach the C# language on .NET Core.
 - [zatchheems/tokyo-night-alacritty-theme](https://github.com/zatchheems/tokyo-night-alacritty-theme) - A slick dark theme for Alacritty based on the Tokyo Night VS Code theme and ported from the Vim theme of the same name.
@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [acl-org/acl-style-files](https://github.com/acl-org/acl-style-files) - Official style files for papers submitted to venues of the Association for Computational Linguistics
 - [tuna-f1sh/cyme](https://github.com/tuna-f1sh/cyme) - List system USB buses and devices. A modern cross-platform lsusb that attempts to maintain compatibility with, but also add new features
-- [nltk/nltk](https://github.com/nltk/nltk) - NLTK Source
 
 #### 👯 Check out some of my followers
 
