@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400&#43; contributors) framework for managing your zsh configuration. Includes 300&#43; optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140&#43; themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) - 
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
-- [acl-org/acl-style-files](https://github.com/acl-org/acl-style-files) - Official style files for papers submitted to venues of the Association for Computational Linguistics
 
 #### 👯 Check out some of my followers
 
