@@ -28,6 +28,6 @@
 
 #### 👯 Check out some of my followers
 
+- [jan-ba](https://github.com/jan-ba)
 - [nimaaghobadi](https://github.com/nimaaghobadi)
 - [seniorvuejsdeveloper](https://github.com/seniorvuejsdeveloper)
-- [Connor9994](https://github.com/Connor9994)
