@@ -28,6 +28,6 @@
 
 #### 👯 Check out some of my followers
 
-- [CoreUnitNET](https://github.com/CoreUnitNET)
+- [dudchenko610](https://github.com/dudchenko610)
 - [G0rocks](https://github.com/G0rocks)
 - [jan-ba](https://github.com/jan-ba)
