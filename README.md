@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [xdanaux/moderncv](https://github.com/xdanaux/moderncv) - A modern curriculum vitae class for LaTeX
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop &amp; Docker AI application with built-in RAG, AI agents, and more.
 - [engenmt/my-eleventy-resume](https://github.com/engenmt/my-eleventy-resume) - 
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 
 #### 👯 Check out some of my followers
 
