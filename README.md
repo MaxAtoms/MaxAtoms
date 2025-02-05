@@ -16,9 +16,9 @@
 
 #### 📓 Some Gists I wrote
 
+- [renv reproducibility issue](https://gist.github.com/fa19949eb41f7bdc24277cc49a73de2f)
 - [Removes duplicate files in the current working directory when their hash matches exactly](https://gist.github.com/adb1a103726545c84d591b7be5eec134)
 - [Trying out C# Caller Attributes](https://gist.github.com/9b9f14f7bab6d7ed7a64316d211d5f5d)
-- [Git Repos Year-in-review](https://gist.github.com/2586ee55c017c56db698a939220717a1)
 
 #### ⭐ Recent Stars
 
