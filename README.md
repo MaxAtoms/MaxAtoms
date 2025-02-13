@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
-- [haskell/lsp](https://github.com/haskell/lsp) - Haskell library for the Microsoft Language Server Protocol
-- [xdanaux/moderncv](https://github.com/xdanaux/moderncv) - A modern curriculum vitae class for LaTeX
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop &amp; Docker AI application with built-in RAG, AI agents, and more.
+- [NicholasRasi/MMM-OnlineImagesViewer](https://github.com/NicholasRasi/MMM-OnlineImagesViewer) - Magic Mirror Module for showing online images
+- [KristjanESPERANTO/MMM-Canteen](https://github.com/KristjanESPERANTO/MMM-Canteen) - This is a module for MagicMirror² to display the menu of canteens from universities in Germany and Switzerland (based on openmensa.org API).
+- [KristjanESPERANTO/MMM-PublicTransportHafas](https://github.com/KristjanESPERANTO/MMM-PublicTransportHafas) - This is a module for MagicMirror² to display public transport departures.
 
 #### 👯 Check out some of my followers
 
