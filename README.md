@@ -22,12 +22,12 @@
 
 #### ⭐ Recent Stars
 
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [NicholasRasi/MMM-OnlineImagesViewer](https://github.com/NicholasRasi/MMM-OnlineImagesViewer) - Magic Mirror Module for showing online images
-- [KristjanESPERANTO/MMM-Canteen](https://github.com/KristjanESPERANTO/MMM-Canteen) - This is a module for MagicMirror² to display the menu of canteens from universities in Germany and Switzerland (based on openmensa.org API).
-- [KristjanESPERANTO/MMM-PublicTransportHafas](https://github.com/KristjanESPERANTO/MMM-PublicTransportHafas) - This is a module for MagicMirror² to display public transport departures.
 
 #### 👯 Check out some of my followers
 
+- [meliksahyorulmazlar](https://github.com/meliksahyorulmazlar)
 - [dudchenko610](https://github.com/dudchenko610)
 - [G0rocks](https://github.com/G0rocks)
-- [jan-ba](https://github.com/jan-ba)
