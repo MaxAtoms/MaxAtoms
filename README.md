@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [devcontainers/spec](https://github.com/devcontainers/spec) - Development Containers: Use a container as a full-featured development environment.
+- [devcontainers/feature-starter](https://github.com/devcontainers/feature-starter) - A  bootstrap repo for self-authoring Dev Container Features
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
-- [NicholasRasi/MMM-OnlineImagesViewer](https://github.com/NicholasRasi/MMM-OnlineImagesViewer) - Magic Mirror Module for showing online images
 
 #### 👯 Check out some of my followers
 
