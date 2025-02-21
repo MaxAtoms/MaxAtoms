@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm working on
 
+- [flowr-analysis/flowr](https://github.com/flowr-analysis/flowr) - A program slicer and dataflow analyzer for the R programming language.
 - [DotNetKoans/DotNetKoans](https://github.com/DotNetKoans/DotNetKoans) - A set of Koans to teach the C# language on .NET Core.
 - [alexandersvafdal/Datathon_2024_Borgarlina](https://github.com/alexandersvafdal/Datathon_2024_Borgarlina) - 
 - [G0rocks/G0rocks](https://github.com/G0rocks/G0rocks) - 
 - [MaxAtoms/SmallWebExperiments](https://github.com/MaxAtoms/SmallWebExperiments) - Some small and quick experiments using different web technologies
-- [MaxAtoms/NLTK-German-POS-Tagger](https://github.com/MaxAtoms/NLTK-German-POS-Tagger) - NLP course project investigating the accuracy of the NLTK averaged perceptron tagger on German corpora
 
 #### 🌱 My latest projects
 
