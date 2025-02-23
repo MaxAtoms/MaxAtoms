@@ -29,5 +29,5 @@
 #### 👯 Check out some of my followers
 
 - [zulnabil](https://github.com/zulnabil)
-- [meliksahyorulmazlar](https://github.com/meliksahyorulmazlar)
 - [dudchenko610](https://github.com/dudchenko610)
+- [G0rocks](https://github.com/G0rocks)
