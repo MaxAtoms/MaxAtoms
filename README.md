@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [slowkow/ggrepel](https://github.com/slowkow/ggrepel) - :round_pushpin: Repel overlapping text labels away from each other in your ggplot2 figures.
+- [larmarange/ggstats](https://github.com/larmarange/ggstats) - Extension to ggplot2 for plotting stats
 - [devcontainers/spec](https://github.com/devcontainers/spec) - Development Containers: Use a container as a full-featured development environment.
-- [devcontainers/feature-starter](https://github.com/devcontainers/feature-starter) - A  bootstrap repo for self-authoring Dev Container Features
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
 
 #### 👯 Check out some of my followers
 
