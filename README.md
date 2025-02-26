@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm working on
 
+- [tidyverse/ggplot2](https://github.com/tidyverse/ggplot2) - An implementation of the Grammar of Graphics in R
 - [flowr-analysis/flowr](https://github.com/flowr-analysis/flowr) - A dataflow analysis framework for the R programming language.
 - [DotNetKoans/DotNetKoans](https://github.com/DotNetKoans/DotNetKoans) - A set of Koans to teach the C# language on .NET Core.
 - [alexandersvafdal/Datathon_2024_Borgarlina](https://github.com/alexandersvafdal/Datathon_2024_Borgarlina) - 
 - [G0rocks/G0rocks](https://github.com/G0rocks/G0rocks) - 
-- [MaxAtoms/SmallWebExperiments](https://github.com/MaxAtoms/SmallWebExperiments) - Some small and quick experiments using different web technologies
 
 #### 🌱 My latest projects
 
