@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
-- [slowkow/ggrepel](https://github.com/slowkow/ggrepel) - :round_pushpin: Repel overlapping text labels away from each other in your ggplot2 figures.
-- [larmarange/ggstats](https://github.com/larmarange/ggstats) - Extension to ggplot2 for plotting stats
-- [devcontainers/spec](https://github.com/devcontainers/spec) - Development Containers: Use a container as a full-featured development environment.
+- [r-lib/devtools](https://github.com/r-lib/devtools) - Tools to make an R developer&#39;s life easier
+- [tidyverse/dplyr](https://github.com/tidyverse/dplyr) - dplyr: A grammar of data manipulation
+- [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web
 
 #### 👯 Check out some of my followers
 
