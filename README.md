@@ -28,6 +28,6 @@
 
 #### 👯 Check out some of my followers
 
+- [ipqwery](https://github.com/ipqwery)
 - [zulnabil](https://github.com/zulnabil)
 - [dudchenko610](https://github.com/dudchenko610)
-- [G0rocks](https://github.com/G0rocks)
