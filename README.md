@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [gesistsa/rang](https://github.com/gesistsa/rang) - 🐶 (Re)constructing R computational environments
 - [prusa3d/Prusa-Link](https://github.com/prusa3d/Prusa-Link) - 
 - [r-lib/devtools](https://github.com/r-lib/devtools) - Tools to make an R developer&#39;s life easier
-- [tidyverse/dplyr](https://github.com/tidyverse/dplyr) - dplyr: A grammar of data manipulation
 
 #### 👯 Check out some of my followers
 
