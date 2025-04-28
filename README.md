@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A nobuild content delivery network(CDN) for modern web development.
 - [gesistsa/rang](https://github.com/gesistsa/rang) - 🐶 (Re)constructing R computational environments
 - [prusa3d/Prusa-Link](https://github.com/prusa3d/Prusa-Link) - 
-- [r-lib/devtools](https://github.com/r-lib/devtools) - Tools to make an R developer&#39;s life easier
 
 #### 👯 Check out some of my followers
 
