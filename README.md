@@ -28,6 +28,6 @@
 
 #### 👯 Check out some of my followers
 
-- [filedonkey](https://github.com/filedonkey)
 - [RSD6170](https://github.com/RSD6170)
 - [trinhminhtriet](https://github.com/trinhminhtriet)
+- [zulnabil](https://github.com/zulnabil)
