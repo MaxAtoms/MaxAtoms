@@ -29,5 +29,5 @@
 #### 👯 Check out some of my followers
 
 - [RSD6170](https://github.com/RSD6170)
-- [trinhminhtriet](https://github.com/trinhminhtriet)
 - [zulnabil](https://github.com/zulnabil)
+- [dudchenko610](https://github.com/dudchenko610)
