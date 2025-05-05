@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [Jacksaur/Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) - Collection of decent Community-made GRUB themes. Contributions welcome!
 - [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A nobuild content delivery network(CDN) for modern web development.
 - [gesistsa/rang](https://github.com/gesistsa/rang) - 🐶 (Re)constructing R computational environments
-- [prusa3d/Prusa-Link](https://github.com/prusa3d/Prusa-Link) - 
 
 #### 👯 Check out some of my followers
 
