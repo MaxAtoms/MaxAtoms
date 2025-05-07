@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [hapijs/joi](https://github.com/hapijs/joi) - The most powerful data validation library for JS
 - [flowr-analysis/flowr](https://github.com/flowr-analysis/flowr) - A static program analyzer and dataflow analysis framework for the R programming language.
 - [Jacksaur/Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) - Collection of decent Community-made GRUB themes. Contributions welcome!
-- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A nobuild content delivery network(CDN) for modern web development.
 
 #### 👯 Check out some of my followers
 
