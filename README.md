@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [lisa-analyzer/lisa](https://github.com/lisa-analyzer/lisa) - 📚 a modular easy to use Library for Static Analysis aiming at multi-language analysis
 - [hapijs/joi](https://github.com/hapijs/joi) - The most powerful data validation library for JS
 - [flowr-analysis/flowr](https://github.com/flowr-analysis/flowr) - A static program analyzer and dataflow analysis framework for the R programming language.
-- [Jacksaur/Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) - Collection of decent Community-made GRUB themes. Contributions welcome!
 
 #### 👯 Check out some of my followers
 
