@@ -22,12 +22,12 @@
 
 #### ⭐ Recent Stars
 
+- [rupc/awesome-bft](https://github.com/rupc/awesome-bft) - Awesome Byzantine Fault Tolerance (BFT)
 - [lisa-analyzer/lisa](https://github.com/lisa-analyzer/lisa) - 📚 a modular easy to use Library for Static Analysis aiming at multi-language analysis
 - [hapijs/joi](https://github.com/hapijs/joi) - The most powerful data validation library for JS
-- [flowr-analysis/flowr](https://github.com/flowr-analysis/flowr) - A static program analyzer and dataflow analysis framework for the R programming language.
 
 #### 👯 Check out some of my followers
 
+- [markwindsorr](https://github.com/markwindsorr)
 - [RSD6170](https://github.com/RSD6170)
 - [zulnabil](https://github.com/zulnabil)
-- [dudchenko610](https://github.com/dudchenko610)
