@@ -28,6 +28,6 @@
 
 #### 👯 Check out some of my followers
 
+- [djvelimir](https://github.com/djvelimir)
 - [optistdev](https://github.com/optistdev)
 - [RSD6170](https://github.com/RSD6170)
-- [zulnabil](https://github.com/zulnabil)
