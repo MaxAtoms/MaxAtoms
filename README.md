@@ -28,6 +28,6 @@
 
 #### 👯 Check out some of my followers
 
+- [standardgalactic](https://github.com/standardgalactic)
 - [djvelimir](https://github.com/djvelimir)
 - [optistdev](https://github.com/optistdev)
-- [RSD6170](https://github.com/RSD6170)
