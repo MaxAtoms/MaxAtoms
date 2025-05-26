@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [JustinMuecke/ACHHI](https://github.com/JustinMuecke/ACHHI) - Simple bot to score users based on their steam achievements created for the discord server of the esports department of the students body at ulm university
 - [rupc/awesome-bft](https://github.com/rupc/awesome-bft) - Awesome Byzantine Fault Tolerance (BFT)
 - [lisa-analyzer/lisa](https://github.com/lisa-analyzer/lisa) - 📚 a modular easy to use Library for Static Analysis aiming at multi-language analysis
-- [hapijs/joi](https://github.com/hapijs/joi) - The most powerful data validation library for JS
 
 #### 👯 Check out some of my followers
 
