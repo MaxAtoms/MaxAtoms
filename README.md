@@ -28,6 +28,6 @@
 
 #### 👯 Check out some of my followers
 
+- [gigalasr](https://github.com/gigalasr)
 - [Ellpeck](https://github.com/Ellpeck)
 - [helallao](https://github.com/helallao)
-- [standardgalactic](https://github.com/standardgalactic)
