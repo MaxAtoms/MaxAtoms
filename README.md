@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [ztrnchn/vim-tw](https://github.com/ztrnchn/vim-tw) - Bachelorthesis: vim with training wheels
 - [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech &amp; services
 - [JustinMuecke/ACHHI](https://github.com/JustinMuecke/ACHHI) - Simple bot to score users based on their steam achievements created for the discord server of the esports department of the students body at ulm university
-- [rupc/awesome-bft](https://github.com/rupc/awesome-bft) - Awesome Byzantine Fault Tolerance (BFT)
 
 #### 👯 Check out some of my followers
 
