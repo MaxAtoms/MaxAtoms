@@ -4,7 +4,7 @@
 
 - [MaxAtoms/fading-life](https://github.com/MaxAtoms/fading-life) - Hackathon X Gamejam 2025 @ uulm
 - [MaxAtoms/maxatoms.github.io](https://github.com/MaxAtoms/maxatoms.github.io) - Personal page
-- [flowr-analysis/flowr](https://github.com/flowr-analysis/flowr) - A static program analyzer and dataflow analysis framework for the R programming language.
+- [flowr-analysis/flowr](https://github.com/flowr-analysis/flowr) - Sophisticated static program analysis framework for the R programming language.
 - [tinylog-org/website](https://github.com/tinylog-org/website) - Website of tinylog: https://tinylog.org/
 - [tidyverse/ggplot2](https://github.com/tidyverse/ggplot2) - An implementation of the Grammar of Graphics in R
 
