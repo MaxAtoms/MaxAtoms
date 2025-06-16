@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [idris-lang/Idris2](https://github.com/idris-lang/Idris2) - A purely functional programming language with first class types
 - [formal-land/coq-of-ocaml](https://github.com/formal-land/coq-of-ocaml) - Formal verification for OCaml
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
-- [ztrnchn/vim-tw](https://github.com/ztrnchn/vim-tw) - Bachelorthesis: vim with training wheels
 
 #### 👯 Check out some of my followers
 
