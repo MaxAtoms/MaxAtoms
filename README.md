@@ -22,12 +22,12 @@
 
 #### ⭐ Recent Stars
 
+- [EagleoutIce/tikzpingus](https://github.com/EagleoutIce/tikzpingus) - 🐧 Penguins in LaTeX with TikZ
 - [idris-lang/Idris2](https://github.com/idris-lang/Idris2) - A purely functional programming language with first class types
 - [formal-land/coq-of-ocaml](https://github.com/formal-land/coq-of-ocaml) - Formal verification for OCaml
-- [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
 
 #### 👯 Check out some of my followers
 
-- [pmbittner](https://github.com/pmbittner)
-- [gigalasr](https://github.com/gigalasr)
-- [Ellpeck](https://github.com/Ellpeck)
+- [lewinft](https://github.com/lewinft)
+- [schuler-henry](https://github.com/schuler-henry)
+- [fabi-kienzle](https://github.com/fabi-kienzle)
