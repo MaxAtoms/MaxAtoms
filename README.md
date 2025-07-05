@@ -28,6 +28,6 @@
 
 #### 👯 Check out some of my followers
 
+- [seckinyasar](https://github.com/seckinyasar)
 - [lewinft](https://github.com/lewinft)
 - [schuler-henry](https://github.com/schuler-henry)
-- [fabi-kienzle](https://github.com/fabi-kienzle)
