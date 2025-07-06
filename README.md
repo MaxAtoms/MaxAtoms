@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [LukasPietzschmann/tuebix-talk](https://github.com/LukasPietzschmann/tuebix-talk) - On Cthulu&#39;s Merge and Linux&#39;s Four Parents
 - [EagleoutIce/tikzpingus](https://github.com/EagleoutIce/tikzpingus) - 🐧 Penguins in LaTeX with TikZ
 - [idris-lang/Idris2](https://github.com/idris-lang/Idris2) - A purely functional programming language with first class types
-- [formal-land/coq-of-ocaml](https://github.com/formal-land/coq-of-ocaml) - Formal verification for OCaml
 
 #### 👯 Check out some of my followers
 
