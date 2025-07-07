@@ -28,6 +28,6 @@
 
 #### 👯 Check out some of my followers
 
+- [lukasbraundev](https://github.com/lukasbraundev)
+- [jelspace](https://github.com/jelspace)
 - [seckinyasar](https://github.com/seckinyasar)
-- [lewinft](https://github.com/lewinft)
-- [schuler-henry](https://github.com/schuler-henry)
