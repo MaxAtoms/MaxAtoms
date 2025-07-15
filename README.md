@@ -2,17 +2,17 @@
 
 #### 👷 Check out what I'm working on
 
+- [MaxAtoms/Theatrical-Players-Refactoring-Kata](https://github.com/MaxAtoms/Theatrical-Players-Refactoring-Kata) - 
 - [flowr-analysis/flowr](https://github.com/flowr-analysis/flowr) - Sophisticated static program analysis framework for the R programming language.
 - [INRIA/spoon](https://github.com/INRIA/spoon) - Spoon is a metaprogramming library to analyze and transform Java source code. :spoon: is made with :heart:, :beers: and :sparkles:. It parses source files to build a well-designed AST with powerful analysis and transformation API.
 - [MaxAtoms/fading-life](https://github.com/MaxAtoms/fading-life) - Hackathon X Gamejam 2025 @ uulm
 - [MaxAtoms/maxatoms.github.io](https://github.com/MaxAtoms/maxatoms.github.io) - Personal page
-- [tinylog-org/website](https://github.com/tinylog-org/website) - Website of tinylog: https://tinylog.org/
 
 #### 🌱 My latest projects
 
+- [MaxAtoms/Theatrical-Players-Refactoring-Kata](https://github.com/MaxAtoms/Theatrical-Players-Refactoring-Kata) - 
 - [MaxAtoms/fading-life](https://github.com/MaxAtoms/fading-life) - Hackathon X Gamejam 2025 @ uulm
 - [MaxAtoms/NLTK-German-POS-Tagger](https://github.com/MaxAtoms/NLTK-German-POS-Tagger) - NLP course project investigating the accuracy of the NLTK averaged perceptron tagger on German corpora
-- [MaxAtoms/T-705-ASDS](https://github.com/MaxAtoms/T-705-ASDS) - Lecture notes from Applied Statistics for Data Science @ Reykjavík University (Fall term 2024)
 
 #### 📓 Some Gists I wrote
 
@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [emilybache/Theatrical-Players-Refactoring-Kata](https://github.com/emilybache/Theatrical-Players-Refactoring-Kata) - Example from first chapter of &#39;Refactoring&#39; by Martin Fowler, with tests and translations
 - [LukasPietzschmann/tuebix-talk](https://github.com/LukasPietzschmann/tuebix-talk) - On Cthulu&#39;s Merge and Linux&#39;s Four Parents
 - [EagleoutIce/tikzpingus](https://github.com/EagleoutIce/tikzpingus) - 🐧 Penguins in LaTeX with TikZ
-- [idris-lang/Idris2](https://github.com/idris-lang/Idris2) - A purely functional programming language with first class types
 
 #### 👯 Check out some of my followers
 
