@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [luca-schlecker/typst-lambdabus](https://github.com/luca-schlecker/typst-lambdabus) - Easily parse, normalize and display simple λ-Calculus expressions.
 - [emilybache/Theatrical-Players-Refactoring-Kata](https://github.com/emilybache/Theatrical-Players-Refactoring-Kata) - Example from first chapter of &#39;Refactoring&#39; by Martin Fowler, with tests and translations
 - [LukasPietzschmann/tuebix-talk](https://github.com/LukasPietzschmann/tuebix-talk) - On Cthulu&#39;s Merge and Linux&#39;s Four Parents
-- [EagleoutIce/tikzpingus](https://github.com/EagleoutIce/tikzpingus) - 🐧 Penguins in LaTeX with TikZ
 
 #### 👯 Check out some of my followers
 
