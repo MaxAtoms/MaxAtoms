@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
+- [i3/i3](https://github.com/i3/i3) - A tiling window manager for X11
 - [EagleoutIce/code-animation](https://github.com/EagleoutIce/code-animation) - A LaTeX Package to ease animation in listings (with beamer)
-- [Ellpeck/ObsidianJustSharePlease](https://github.com/Ellpeck/ObsidianJustSharePlease) - An Obsidian plugin that allows quickly and easily sharing individual notes online using an anonymized link
-- [luca-schlecker/typst-lambdabus](https://github.com/luca-schlecker/typst-lambdabus) - Easily parse, normalize and display simple λ-Calculus expressions.
 
 #### 👯 Check out some of my followers
 
