@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [jepsen-io/jepsen](https://github.com/jepsen-io/jepsen) - A framework for distributed systems verification, with fault injection
 - [ionide/FsAutoComplete](https://github.com/ionide/FsAutoComplete) - F# language server using Language Server Protocol
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
-- [i3/i3](https://github.com/i3/i3) - A tiling window manager for X11
 
 #### 👯 Check out some of my followers
 
