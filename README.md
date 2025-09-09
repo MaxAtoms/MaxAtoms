@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [samhenrigold/LidAngleSensor](https://github.com/samhenrigold/LidAngleSensor) - tfw when you when your lid when uhh angle your lid sensor
 - [jepsen-io/jepsen](https://github.com/jepsen-io/jepsen) - A framework for distributed systems verification, with fault injection
 - [ionide/FsAutoComplete](https://github.com/ionide/FsAutoComplete) - F# language server using Language Server Protocol
-- [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 
 #### 👯 Check out some of my followers
 
