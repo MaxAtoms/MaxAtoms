@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm working on
 
+- [flowr-analysis/flowr](https://github.com/flowr-analysis/flowr) - Sophisticated static program analysis framework for the R programming language.
 - [MaxAtoms/Docker](https://github.com/MaxAtoms/Docker) - Collection of Dockerfiles and docker-compose files
 - [INRIA/spoon](https://github.com/INRIA/spoon) - Spoon is a metaprogramming library to analyze and transform Java source code. :spoon: is made with :heart:, :beers: and :sparkles:. It parses source files to build a well-designed AST with powerful analysis and transformation API.
-- [flowr-analysis/flowr](https://github.com/flowr-analysis/flowr) - Sophisticated static program analysis framework for the R programming language.
 - [MaxAtoms/Theatrical-Players-Refactoring-Kata](https://github.com/MaxAtoms/Theatrical-Players-Refactoring-Kata) - 
 - [MaxAtoms/fading-life](https://github.com/MaxAtoms/fading-life) - Hackathon X Gamejam 2025 @ uulm
 
