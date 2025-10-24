@@ -28,6 +28,6 @@
 
 #### 👯 Check out some of my followers
 
+- [seckinyasar](https://github.com/seckinyasar)
+- [helallao](https://github.com/helallao)
 - [john2ksonn](https://github.com/john2ksonn)
-- [anja721](https://github.com/anja721)
-- [lukasbraundev](https://github.com/lukasbraundev)
