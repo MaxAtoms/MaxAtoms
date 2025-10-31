@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
-- [willcrichton/flowistry](https://github.com/willcrichton/flowistry) - Flowistry is an IDE plugin for Rust that helps you focus on relevant code.
-- [INRIA/spoon](https://github.com/INRIA/spoon) - Spoon is a metaprogramming library to analyze and transform Java source code. :spoon: is made with :heart:, :beers: and :sparkles:. It parses source files to build a well-designed AST with powerful analysis and transformation API.
-- [spangea/Pyra](https://github.com/spangea/Pyra) - 
+- [dvir-biton/MyraOS](https://github.com/dvir-biton/MyraOS) - A x86 Unix-like OS made entirely from scratch
+- [emilygofeld/Dkira](https://github.com/emilygofeld/Dkira) - Container engine
+- [unjs/unpdf](https://github.com/unjs/unpdf) - 📄 PDF extraction and rendering across all JavaScript runtimes
 
 #### 👯 Check out some of my followers
 
