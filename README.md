@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm working on
 
+- [Gabriele-Mangione/Delitter](https://github.com/Gabriele-Mangione/Delitter) - 
 - [flowr-analysis/flowr](https://github.com/flowr-analysis/flowr) - Sophisticated static program analysis framework for the R programming language.
 - [INRIA/spoon](https://github.com/INRIA/spoon) - Spoon is a metaprogramming library to analyze and transform Java source code. :spoon: is made with :heart:, :beers: and :sparkles:. It parses source files to build a well-designed AST with powerful analysis and transformation API.
 - [MaxAtoms/Docker](https://github.com/MaxAtoms/Docker) - Collection of Dockerfiles and docker-compose files
 - [MaxAtoms/Theatrical-Players-Refactoring-Kata](https://github.com/MaxAtoms/Theatrical-Players-Refactoring-Kata) - 
-- [MaxAtoms/fading-life](https://github.com/MaxAtoms/fading-life) - Hackathon X Gamejam 2025 @ uulm
 
 #### 🌱 My latest projects
 
@@ -28,6 +28,6 @@
 
 #### 👯 Check out some of my followers
 
+- [Gabriele-Mangione](https://github.com/Gabriele-Mangione)
 - [seckinyasar](https://github.com/seckinyasar)
 - [helallao](https://github.com/helallao)
-- [john2ksonn](https://github.com/john2ksonn)
