@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
-- [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
-- [dvir-biton/MyraOS](https://github.com/dvir-biton/MyraOS) - A x86 Unix-like OS made entirely from scratch
-- [emilygofeld/Dkira](https://github.com/emilygofeld/Dkira) - Container engine
+- [cs-au-dk/jelly](https://github.com/cs-au-dk/jelly) - JavaScript/TypeScript static analyzer for call graph construction, library usage pattern matching, and vulnerability exposure analysis
+- [opalj/opal](https://github.com/opalj/opal) - 
+- [KirillOsenkov/RoslynQuoter](https://github.com/KirillOsenkov/RoslynQuoter) - Roslyn tool that for a given C# program shows syntax tree API calls to construct its syntax tree
 
 #### 👯 Check out some of my followers
 
