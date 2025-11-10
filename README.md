@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+- [lyqht/mini-qr](https://github.com/lyqht/mini-qr) - Create &amp; scan cute qr codes easily 👾
 - [mediathekview/mediathekviewweb](https://github.com/mediathekview/mediathekviewweb) - Eine Weboberfläche als Alternative zum Java-Client
-- [cs-au-dk/jelly](https://github.com/cs-au-dk/jelly) - JavaScript/TypeScript static analyzer for call graph construction, library usage pattern matching, and vulnerability exposure analysis
-- [opalj/opal](https://github.com/opalj/opal) - 
 
 #### 👯 Check out some of my followers
 
