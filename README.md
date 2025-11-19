@@ -28,6 +28,6 @@
 
 #### 👯 Check out some of my followers
 
+- [Ares-Cymka](https://github.com/Ares-Cymka)
 - [alexandersvafdal](https://github.com/alexandersvafdal)
 - [S4IL21](https://github.com/S4IL21)
-- [Gabriele-Mangione](https://github.com/Gabriele-Mangione)
