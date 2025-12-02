@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm working on
 
-- [sp-uulm/writing-guidelines](https://github.com/sp-uulm/writing-guidelines) - General guidelines for writing theses, proposals, papers, ...
 - [flowr-analysis/flowr](https://github.com/flowr-analysis/flowr) - Sophisticated static program analysis framework for the R programming language.
+- [sp-uulm/writing-guidelines](https://github.com/sp-uulm/writing-guidelines) - General guidelines for writing theses, proposals, papers, ...
 - [Gabriele-Mangione/Delitter](https://github.com/Gabriele-Mangione/Delitter) - 
 - [INRIA/spoon](https://github.com/INRIA/spoon) - Spoon is a metaprogramming library to analyze and transform Java source code. :spoon: is made with :heart:, :beers: and :sparkles:. It parses source files to build a well-designed AST with powerful analysis and transformation API.
 - [MaxAtoms/Docker](https://github.com/MaxAtoms/Docker) - Collection of Dockerfiles and docker-compose files
@@ -28,6 +28,6 @@
 
 #### 👯 Check out some of my followers
 
-- [BEPb](https://github.com/BEPb)
 - [Sricharan-Anugandula](https://github.com/Sricharan-Anugandula)
 - [Ares-Cymka](https://github.com/Ares-Cymka)
+- [alexandersvafdal](https://github.com/alexandersvafdal)
