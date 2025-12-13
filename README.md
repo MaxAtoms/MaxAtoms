@@ -2,17 +2,17 @@
 
 #### 👷 Check out what I'm working on
 
+- [MaxAtoms/gamejam-uulm-christmas-25](https://github.com/MaxAtoms/gamejam-uulm-christmas-25) - Hackathon X Gamejam @ uulm, December 2025
 - [flowr-analysis/flowr](https://github.com/flowr-analysis/flowr) - Sophisticated static program analysis framework for the R programming language.
 - [sp-uulm/writing-guidelines](https://github.com/sp-uulm/writing-guidelines) - General guidelines for writing theses, proposals, papers, ...
 - [Gabriele-Mangione/Delitter](https://github.com/Gabriele-Mangione/Delitter) - 
 - [INRIA/spoon](https://github.com/INRIA/spoon) - Spoon is a metaprogramming library to analyze and transform Java source code. :spoon: is made with :heart:, :beers: and :sparkles:. It parses source files to build a well-designed AST with powerful analysis and transformation API.
-- [MaxAtoms/Docker](https://github.com/MaxAtoms/Docker) - Collection of Dockerfiles and docker-compose files
 
 #### 🌱 My latest projects
 
+- [MaxAtoms/gamejam-uulm-christmas-25](https://github.com/MaxAtoms/gamejam-uulm-christmas-25) - Hackathon X Gamejam @ uulm, December 2025
 - [MaxAtoms/Theatrical-Players-Refactoring-Kata](https://github.com/MaxAtoms/Theatrical-Players-Refactoring-Kata) - 
 - [MaxAtoms/fading-life](https://github.com/MaxAtoms/fading-life) - Hackathon X Gamejam 2025 @ uulm
-- [MaxAtoms/NLTK-German-POS-Tagger](https://github.com/MaxAtoms/NLTK-German-POS-Tagger) - NLP course project investigating the accuracy of the NLTK averaged perceptron tagger on German corpora
 
 #### 📓 Some Gists I wrote
 
