@@ -28,6 +28,6 @@
 
 #### 👯 Check out some of my followers
 
+- [SimonBerlinger](https://github.com/SimonBerlinger)
 - [Sricharan-Anugandula](https://github.com/Sricharan-Anugandula)
 - [Ares-Cymka](https://github.com/Ares-Cymka)
-- [alexandersvafdal](https://github.com/alexandersvafdal)
