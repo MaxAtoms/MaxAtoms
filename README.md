@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm working on
 
-- [MaxAtoms/gamejam-uulm-christmas-25](https://github.com/MaxAtoms/gamejam-uulm-christmas-25) - Hackathon X Gamejam @ uulm, December 2025
+- [MaxAtoms/mine-defense](https://github.com/MaxAtoms/mine-defense) - Hackathon X Gamejam December 2025 @ uulm
 - [flowr-analysis/flowr](https://github.com/flowr-analysis/flowr) - Sophisticated static program analysis framework for the R programming language.
 - [sp-uulm/writing-guidelines](https://github.com/sp-uulm/writing-guidelines) - General guidelines for writing theses, proposals, papers, ...
 - [Gabriele-Mangione/Delitter](https://github.com/Gabriele-Mangione/Delitter) - 
@@ -10,9 +10,9 @@
 
 #### 🌱 My latest projects
 
-- [MaxAtoms/gamejam-uulm-christmas-25](https://github.com/MaxAtoms/gamejam-uulm-christmas-25) - Hackathon X Gamejam @ uulm, December 2025
+- [MaxAtoms/mine-defense](https://github.com/MaxAtoms/mine-defense) - Hackathon X Gamejam December 2025 @ uulm
 - [MaxAtoms/Theatrical-Players-Refactoring-Kata](https://github.com/MaxAtoms/Theatrical-Players-Refactoring-Kata) - 
-- [MaxAtoms/fading-life](https://github.com/MaxAtoms/fading-life) - Hackathon X Gamejam 2025 @ uulm
+- [MaxAtoms/fading-life](https://github.com/MaxAtoms/fading-life) - Hackathon X Gamejam May 2025 @ uulm
 
 #### 📓 Some Gists I wrote
 
