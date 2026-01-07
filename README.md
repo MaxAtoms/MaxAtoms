@@ -22,12 +22,12 @@
 
 #### ⭐ Recent Stars
 
+- [hadley/adv-r](https://github.com/hadley/adv-r) - Advanced R: a book
+- [rsnapshot/rsnapshot](https://github.com/rsnapshot/rsnapshot) - a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinfo/rsnapshot-discuss)
 - [sp-uulm/writing-guidelines](https://github.com/sp-uulm/writing-guidelines) - General guidelines for writing theses, proposals, papers, ...
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
-- [lyqht/mini-qr](https://github.com/lyqht/mini-qr) - Create &amp; scan cute qr codes easily 👾
 
 #### 👯 Check out some of my followers
 
+- [helallao](https://github.com/helallao)
+- [seckinyasar](https://github.com/seckinyasar)
 - [SimonBerlinger](https://github.com/SimonBerlinger)
-- [Sricharan-Anugandula](https://github.com/Sricharan-Anugandula)
-- [Ares-Cymka](https://github.com/Ares-Cymka)
