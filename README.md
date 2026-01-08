@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm working on
 
+- [flowr-analysis/vscode-flowr](https://github.com/flowr-analysis/vscode-flowr) - flowR Extension for Visual Studio Code and Positron
 - [MaxAtoms/mine-defense](https://github.com/MaxAtoms/mine-defense) - Hackathon X Gamejam December 2025 @ uulm
 - [flowr-analysis/flowr](https://github.com/flowr-analysis/flowr) - Sophisticated static program analysis framework for the R programming language.
 - [sp-uulm/writing-guidelines](https://github.com/sp-uulm/writing-guidelines) - General guidelines for writing theses, proposals, papers, ...
 - [Gabriele-Mangione/Delitter](https://github.com/Gabriele-Mangione/Delitter) - 
-- [INRIA/spoon](https://github.com/INRIA/spoon) - Spoon is a metaprogramming library to analyze and transform Java source code. :spoon: is made with :heart:, :beers: and :sparkles:. It parses source files to build a well-designed AST with powerful analysis and transformation API.
 
 #### 🌱 My latest projects
 
@@ -16,9 +16,9 @@
 
 #### 📓 Some Gists I wrote
 
+- [iwd Configuration File for Uni Ulm Eduroam Users](https://gist.github.com/5ca8d0d61752b7edb73a92a1a8d627bc)
 - [renv reproducibility issue](https://gist.github.com/fa19949eb41f7bdc24277cc49a73de2f)
 - [Removes duplicate files in the current working directory when their hash matches exactly](https://gist.github.com/adb1a103726545c84d591b7be5eec134)
-- [Trying out C# Caller Attributes](https://gist.github.com/9b9f14f7bab6d7ed7a64316d211d5f5d)
 
 #### ⭐ Recent Stars
 
