@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
 - [hadley/adv-r](https://github.com/hadley/adv-r) - Advanced R: a book
 - [rsnapshot/rsnapshot](https://github.com/rsnapshot/rsnapshot) - a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinfo/rsnapshot-discuss)
-- [sp-uulm/writing-guidelines](https://github.com/sp-uulm/writing-guidelines) - General guidelines for writing theses, proposals, papers, ...
 
 #### 👯 Check out some of my followers
 
