@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm working on
 
+- [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux
 - [flowr-analysis/vscode-flowr](https://github.com/flowr-analysis/vscode-flowr) - flowR Extension for Visual Studio Code and Positron
 - [MaxAtoms/mine-defense](https://github.com/MaxAtoms/mine-defense) - Hackathon X Gamejam December 2025 @ uulm
 - [flowr-analysis/flowr](https://github.com/flowr-analysis/flowr) - Sophisticated static program analysis framework for the R programming language.
 - [sp-uulm/writing-guidelines](https://github.com/sp-uulm/writing-guidelines) - General guidelines for writing theses, proposals, papers, ...
-- [Gabriele-Mangione/Delitter](https://github.com/Gabriele-Mangione/Delitter) - 
 
 #### 🌱 My latest projects
 
@@ -29,5 +29,5 @@
 #### 👯 Check out some of my followers
 
 - [matrec123-dot](https://github.com/matrec123-dot)
-- [seckinyasar](https://github.com/seckinyasar)
 - [SimonBerlinger](https://github.com/SimonBerlinger)
+- [Sricharan-Anugandula](https://github.com/Sricharan-Anugandula)
