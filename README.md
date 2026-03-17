@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [VIDA-NYU/reprozip](https://github.com/VIDA-NYU/reprozip) - ReproZip is a tool that simplifies the process of creating reproducible experiments from command-line executions, a frequently-used common denominator in computational science.
+- [itom-project/itom](https://github.com/itom-project/itom) - itom core repository
 - [ktorio/ktor](https://github.com/ktorio/ktor) - Framework for quickly creating connected applications in Kotlin with minimal effort
-- [danielskatz/errors-due-to-research-software](https://github.com/danielskatz/errors-due-to-research-software) - This repo is a list of papers that discuss errors in research due to software errors
-- [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
 
 #### 👯 Check out some of my followers
 
