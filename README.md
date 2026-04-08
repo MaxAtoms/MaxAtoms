@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [authentic-research-partners/scicode-lint](https://github.com/authentic-research-partners/scicode-lint) - AI-powered linter for scientific and research Python code.
+- [Aargon06/sneaker](https://github.com/Aargon06/sneaker) - A package for configurable TikZ sneakers. This package enables an easy generation of a variety of different shoes in Latex. 
 - [microsoft/RustTraining](https://github.com/microsoft/RustTraining) - Beginner, advanced, expert level Rust training material
-- [VIDA-NYU/reprozip](https://github.com/VIDA-NYU/reprozip) - ReproZip is a tool that simplifies the process of creating reproducible experiments from command-line executions, a frequently-used common denominator in computational science.
-- [itom-project/itom](https://github.com/itom-project/itom) - itom core repository
 
 #### 👯 Check out some of my followers
 
