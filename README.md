@@ -28,6 +28,6 @@
 
 #### 👯 Check out some of my followers
 
+- [Aargon06](https://github.com/Aargon06)
 - [matrec123-dot](https://github.com/matrec123-dot)
 - [SimonBerlinger](https://github.com/SimonBerlinger)
-- [Sricharan-Anugandula](https://github.com/Sricharan-Anugandula)
