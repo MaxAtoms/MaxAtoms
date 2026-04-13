@@ -2,17 +2,17 @@
 
 #### 👷 Check out what I'm working on
 
+- [MaxAtoms/kotlin-multiplatform-stdin](https://github.com/MaxAtoms/kotlin-multiplatform-stdin) - 
 - [flowr-analysis/flowr](https://github.com/flowr-analysis/flowr) - Sophisticated static program analysis framework for the R programming language.
 - [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux
 - [flowr-analysis/vscode-flowr](https://github.com/flowr-analysis/vscode-flowr) - flowR Extension for Visual Studio Code and Positron
 - [MaxAtoms/mine-defense](https://github.com/MaxAtoms/mine-defense) - Hackathon X Gamejam December 2025 @ uulm
-- [sp-uulm/writing-guidelines](https://github.com/sp-uulm/writing-guidelines) - General guidelines for writing theses, proposals, papers, ...
 
 #### 🌱 My latest projects
 
+- [MaxAtoms/kotlin-multiplatform-stdin](https://github.com/MaxAtoms/kotlin-multiplatform-stdin) - 
 - [MaxAtoms/mine-defense](https://github.com/MaxAtoms/mine-defense) - Hackathon X Gamejam December 2025 @ uulm
 - [MaxAtoms/Theatrical-Players-Refactoring-Kata](https://github.com/MaxAtoms/Theatrical-Players-Refactoring-Kata) - 
-- [MaxAtoms/fading-life](https://github.com/MaxAtoms/fading-life) - Hackathon X Gamejam May 2025 @ uulm
 
 #### 📓 Some Gists I wrote
 
