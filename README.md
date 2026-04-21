@@ -28,6 +28,6 @@
 
 #### 👯 Check out some of my followers
 
+- [0xhustlerr](https://github.com/0xhustlerr)
 - [schuler-henry](https://github.com/schuler-henry)
 - [Aargon06](https://github.com/Aargon06)
-- [matrec123-dot](https://github.com/matrec123-dot)
