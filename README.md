@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
 - [sky-map-team/stardroid](https://github.com/sky-map-team/stardroid) - Sky Map (formerly Google Sky Map, open sourced in 2012)
 - [authentic-research-partners/scicode-lint](https://github.com/authentic-research-partners/scicode-lint) - AI-powered linter for scientific and research Python code.
-- [Aargon06/sneaker](https://github.com/Aargon06/sneaker) - A package for configurable TikZ sneakers. This package enables an easy generation of a variety of different shoes in Latex. 
 
 #### 👯 Check out some of my followers
 
