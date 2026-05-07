@@ -28,6 +28,6 @@
 
 #### 👯 Check out some of my followers
 
+- [CelaDaniel](https://github.com/CelaDaniel)
 - [0xhustlerr](https://github.com/0xhustlerr)
 - [schuler-henry](https://github.com/schuler-henry)
-- [Aargon06](https://github.com/Aargon06)
