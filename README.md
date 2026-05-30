@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm working on
 
+- [CelDaemon/waybar-dunst](https://github.com/CelDaemon/waybar-dunst) - Waybar module for showing dunst&#39;s paused status
 - [MaxAtoms/maxatoms.github.io](https://github.com/MaxAtoms/maxatoms.github.io) - Personal page
 - [MaxAtoms/kotlin-multiplatform-stdin](https://github.com/MaxAtoms/kotlin-multiplatform-stdin) - 
 - [flowr-analysis/flowr](https://github.com/flowr-analysis/flowr) - Sophisticated static program analysis framework for the R programming language.
 - [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux
-- [flowr-analysis/vscode-flowr](https://github.com/flowr-analysis/vscode-flowr) - flowR Extension for Visual Studio Code and Positron
 
 #### 🌱 My latest projects
 
