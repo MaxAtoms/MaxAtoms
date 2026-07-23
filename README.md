@@ -28,6 +28,6 @@
 
 #### 👯 Check out some of my followers
 
+- [Dvurechensky](https://github.com/Dvurechensky)
 - [AhmedDabish](https://github.com/AhmedDabish)
 - [0xhustlerr](https://github.com/0xhustlerr)
-- [schuler-henry](https://github.com/schuler-henry)
