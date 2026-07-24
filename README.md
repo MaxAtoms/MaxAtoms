@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [vial-kb/vial-qmk](https://github.com/vial-kb/vial-qmk) - QMK fork with Vial-specific features.
 - [ML200/RoyalTracer-DX](https://github.com/ML200/RoyalTracer-DX) - A state-of-the-art DirectX12 based pathtracer
 - [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
-- [sky-map-team/stardroid](https://github.com/sky-map-team/stardroid) - Sky Map (formerly Google Sky Map, open sourced in 2012)
 
 #### 👯 Check out some of my followers
 
