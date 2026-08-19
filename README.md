@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) - Yet another barcode scanner for Android
 - [vial-kb/vial-qmk](https://github.com/vial-kb/vial-qmk) - QMK fork with Vial-specific features.
 - [ML200/RoyalTracer-DX](https://github.com/ML200/RoyalTracer-DX) - A state-of-the-art DirectX12 based pathtracer
-- [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
 
 #### 👯 Check out some of my followers
 
