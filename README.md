@@ -28,6 +28,6 @@
 
 #### 👯 Check out some of my followers
 
-- [Ali-hey-0](https://github.com/Ali-hey-0)
 - [Dvurechensky](https://github.com/Dvurechensky)
 - [AhmedDabish](https://github.com/AhmedDabish)
+- [0xhustlerr](https://github.com/0xhustlerr)
