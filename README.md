@@ -28,6 +28,6 @@
 
 #### 👯 Check out some of my followers
 
+- [ishandutta2007](https://github.com/ishandutta2007)
 - [sabahmax-inc](https://github.com/sabahmax-inc)
 - [arvelquigley99](https://github.com/arvelquigley99)
-- [Dvurechensky](https://github.com/Dvurechensky)
