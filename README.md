@@ -22,12 +22,12 @@
 
 #### ⭐ Recent Stars
 
+- [EagleoutIce/satex-analyzer](https://github.com/EagleoutIce/satex-analyzer) - Static analysis for (La)TeX and friends (with full TeX, eTeX, and LaTeX support)
 - [JanBulling/Ulmiversitaet-Web](https://github.com/JanBulling/Ulmiversitaet-Web) - 
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) - Yet another barcode scanner for Android
-- [vial-kb/vial-qmk](https://github.com/vial-kb/vial-qmk) - QMK fork with Vial-specific features.
 
 #### 👯 Check out some of my followers
 
 - [ishandutta2007](https://github.com/ishandutta2007)
-- [sabahmax-inc](https://github.com/sabahmax-inc)
 - [arvelquigley99](https://github.com/arvelquigley99)
+- [Dvurechensky](https://github.com/Dvurechensky)
