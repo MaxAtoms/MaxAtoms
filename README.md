@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [EagleoutIce/magic-haskell](https://github.com/EagleoutIce/magic-haskell) - LaTeX library for automated, intelligent highlighting of Haskell code with ghci support
 - [EagleoutIce/satex-analyzer](https://github.com/EagleoutIce/satex-analyzer) - Static analysis for (La)TeX and friends (with full TeX, eTeX, and LaTeX support)
 - [JanBulling/Ulmiversitaet-Web](https://github.com/JanBulling/Ulmiversitaet-Web) - 
-- [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) - Yet another barcode scanner for Android
 
 #### 👯 Check out some of my followers
 
