@@ -22,12 +22,12 @@
 
 #### ⭐ Recent Stars
 
+- [EagleoutIce/tikz-sankey](https://github.com/EagleoutIce/tikz-sankey) - Draw fancy sankey diagrams with tikz!
 - [EagleoutIce/magic-haskell](https://github.com/EagleoutIce/magic-haskell) - LaTeX library for automated, intelligent highlighting of Haskell code with ghci support
 - [EagleoutIce/satex-analyzer](https://github.com/EagleoutIce/satex-analyzer) - Static analysis for (La)TeX and friends (with full TeX, eTeX, and LaTeX support)
-- [JanBulling/Ulmiversitaet-Web](https://github.com/JanBulling/Ulmiversitaet-Web) - 
 
 #### 👯 Check out some of my followers
 
+- [BEPb](https://github.com/BEPb)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [arvelquigley99](https://github.com/arvelquigley99)
-- [Dvurechensky](https://github.com/Dvurechensky)
