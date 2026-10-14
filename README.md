@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [sosy-lab/cpachecker](https://github.com/sosy-lab/cpachecker) - CPAchecker, the Configurable Software-Verification Platform (read-only mirror)
+- [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec) - BenchExec: A Framework for Reliable Benchmarking and Resource Measurement
 - [EagleoutIce/tikz-sankey](https://github.com/EagleoutIce/tikz-sankey) - Draw fancy sankey diagrams with tikz!
-- [EagleoutIce/magic-haskell](https://github.com/EagleoutIce/magic-haskell) - LaTeX library for automated, intelligent highlighting of Haskell code with ghci support
-- [EagleoutIce/satex-analyzer](https://github.com/EagleoutIce/satex-analyzer) - Static analysis for (La)TeX and friends (with full TeX, eTeX, and LaTeX support)
 
 #### 👯 Check out some of my followers
 
