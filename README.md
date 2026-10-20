@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [jeremyipark/vision-demos](https://github.com/jeremyipark/vision-demos) - Fun real-world computer vision demos!
 - [sosy-lab/cpachecker](https://github.com/sosy-lab/cpachecker) - CPAchecker, the Configurable Software-Verification Platform (read-only mirror)
 - [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec) - BenchExec: A Framework for Reliable Benchmarking and Resource Measurement
-- [EagleoutIce/tikz-sankey](https://github.com/EagleoutIce/tikz-sankey) - Draw fancy sankey diagrams with tikz!
 
 #### 👯 Check out some of my followers
 
