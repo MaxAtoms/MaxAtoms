@@ -28,6 +28,6 @@
 
 #### 👯 Check out some of my followers
 
-- [rasidi3112](https://github.com/rasidi3112)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [arvelquigley99](https://github.com/arvelquigley99)
+- [Dvurechensky](https://github.com/Dvurechensky)
