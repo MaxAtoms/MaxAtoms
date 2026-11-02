@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm working on
 
-- [bar9/yolo-twice](https://github.com/bar9/yolo-twice) - transparent agentic development superpowers
 - [flowr-analysis/flowr](https://github.com/flowr-analysis/flowr) - Sophisticated static program analysis framework for the R programming language.
+- [bar9/yolo-twice](https://github.com/bar9/yolo-twice) - transparent agentic development superpowers
 - [MaxAtoms/Docker](https://github.com/MaxAtoms/Docker) - Collection of Dockerfiles and docker-compose files
 - [CelDaemon/waybar-dunst](https://github.com/CelDaemon/waybar-dunst) - Waybar module for showing dunst&#39;s paused status
 - [MaxAtoms/maxatoms.github.io](https://github.com/MaxAtoms/maxatoms.github.io) - Personal page
