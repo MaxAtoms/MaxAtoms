@@ -28,6 +28,6 @@
 
 #### 👯 Check out some of my followers
 
+- [Slartibartfass2](https://github.com/Slartibartfass2)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [Dvurechensky](https://github.com/Dvurechensky)
-- [schuler-henry](https://github.com/schuler-henry)
